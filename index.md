@@ -14,10 +14,10 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
   actions:
     - text: What is eDNA?
-      type: outline-theme-light
+      type: secondary
       url: /environmentalDNA
     - text: Start the Experiment!
-      type: primary
+      type: outline-primary
       url: /Experiment
 ---
 
