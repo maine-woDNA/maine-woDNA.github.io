@@ -1,13 +1,13 @@
 ---
 layout: home
 title: Explore Scallop eDNA with Maine woDNA!
-excerpt: An interactive website to virtually complete your own eDNA experiment!
+excerpt: An interactive website to virtually complete your own eDNA experiment
 article_header:
   type: overlay
   align: center
   theme: dark
   background_image:
-    src: /assets/images/SampleBackground1.jpg
+    src: /assets/images/SampleBackground2.jpg
 ---
 
 Can i just add some content below the image? Maybe some buttons? Or leave it blank so you have to navigate from the nav bar
