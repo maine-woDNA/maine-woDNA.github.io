@@ -6,12 +6,8 @@ key: page-about
 
 ![Sample Image1](/assets/images/SampleImage1.jpg)
 
-Edit this page by going to about.md. Im thinking we can give background on this project right here, then below we can have what eDNA is, and who we are? We can also turn those topics onto different pages!
+Edit this page by going to about.md. Im thinking we can give background on this project right here and who we are? We can also turn those topics onto different pages if we wanted to!
 
-
-## What is eDNA?
-
-We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. However, as stated above, we can also easily be like: nahhh lets break this into multiple pages and have a whole page on what eDNA is.
 
 ## Who (or what) is woDNA?
 
