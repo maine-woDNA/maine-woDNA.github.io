@@ -31,7 +31,9 @@ Maybe it was the colon that made it unhappy?
 
 Or if we wanted, buttons could be added not in the header but below the reading! (so you kinda have to read, though also maybe not)
 
+does making the buttons a table change anything? center them?
 
-[Horizontal Distribution from Lantern Nets](#){:.button.button--primary.button--pill} [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--primary.button--pill}
+|---|---|
+| [Horizontal Distribution from Lantern Nets](#){:.button.button--primary.button--pill} | [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--primary.button--pill} |
 
 
