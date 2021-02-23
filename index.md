@@ -5,6 +5,7 @@ excerpt: An interactive website to virtually complete your own eDNA experiment!
 article_header:
   type: overlay
   align: center
+  theme: dark
   background_image:
     src: /assets/images/SampleBackground1.jpg
 ---
