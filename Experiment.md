@@ -12,10 +12,17 @@ article_header:
   mode: immersive
   background_image:
     src: /assets/images/SampleBackground2.jpg
+  actions:
+    - text: Horizontal
+      type: secondary
+      url: /environmentalDNA
+    - text: Vertical
+      type: primary
+      url: /Experiment
 key: page-experiment
 ---
 
-Testing out adding the experiment page? why can i not see this?
+Testing out adding the experiment page? why can i not see this? Tried to add buttons to header... tbd...
 
 
 
