@@ -2,7 +2,7 @@
 layout: article
 title: What is environmental DNA?
 header:
-  theme: dark
+  theme: light
 key: page-eDNA
 ---
 
