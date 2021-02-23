@@ -1,7 +1,7 @@
 ---
 layout: article
 title: What is environmental DNA?
-article header:
+article_header:
   type: overlay
   theme: dark
   background_color: '#1b62a1'
