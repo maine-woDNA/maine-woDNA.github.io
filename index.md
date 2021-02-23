@@ -1,9 +1,3 @@
-<!-- ---
-layout: home
-# articles:
-#   excerpt_type: html
---- -->
-
 ---
 layout: home
 title: Explore Scallop eDNA with Maine woDNA!
