@@ -22,9 +22,6 @@ article_header:
 key: page-experiment
 ---
 
-This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
-
-There can be a lot of info here... similar to as if you just did the background work and summarized it.
 
 
 
