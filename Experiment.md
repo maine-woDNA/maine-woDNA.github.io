@@ -29,4 +29,9 @@ There can be a lot of info here... similar to as if you just did the background 
 
 Maybe it was the colon that made it unhappy?
 
+Or if we wanted, buttons could be added not in the header but below the reading! (so you kinda have to read, though also maybe not)
+
+
+[Horizontal Distribution from Lantern Nets](#){:.button.button--primary.button--pill} [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--primary.button--pill}
+
 
