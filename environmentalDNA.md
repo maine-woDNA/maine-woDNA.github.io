@@ -10,7 +10,7 @@ key: page-eDNA
 
 We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. See look! here is an example video, even though its totally not about eDNA!
 
-<div class=”col-md-5″ style=”display: table; margin: 0 auto;”>
+<div align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juvgikE30qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 But since we dont have much text right now im just going to keep typing so it looks like there is. I am currently drinking a lovely glass of red wine. it is monday night and raining.
