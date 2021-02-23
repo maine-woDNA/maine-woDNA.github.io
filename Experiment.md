@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Let's Start the Experiment!
-excerpt: The first step of any scientific experiment is to do bakground research. Scroll down to read the background information, then select which experiment to conduct!
+excerpt: The first step of any scientific experiment is to do background research. Scroll down to read the background information, then select which experiment you would like to conduct!
 mode: immersive
 header:
   theme: dark
