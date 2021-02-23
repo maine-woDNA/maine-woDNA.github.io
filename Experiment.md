@@ -34,6 +34,6 @@ Or if we wanted, buttons could be added not in the header but below the reading!
 does making the buttons a table change anything? center them? hmm what about center tag? im still thinking it may be old and broken in some places... div align center? womp. no cetnering buttons at the moment
 
 
-[Horizontal Distribution from Lantern Nets](#){:.button.button--secondary.button--pill}  [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--secondary.button--pill}
+[Horizontal Distribution from Lantern Nets](#){:.button.button--outline-primary.button--pill}  [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--outline-primary.button--pill}
 
 
