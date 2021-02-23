@@ -1,9 +1,16 @@
 ---
 layout: article
 title: Let's Start the Experiment!
+mode: immersive
 header:
   theme: dark
-  background: rgba(0, 0, 0, .35)
+article_header:
+  type: overlay
+  align: center
+  theme: light
+  mode: immersive
+  background_image:
+    src: /assets/images/SampleBackground2.jpg
 key: page-experiment
 ---
 
