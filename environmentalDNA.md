@@ -4,6 +4,9 @@ title: What is environmental DNA?
 mode: immersive
 header:
   theme: dark
+article_header:
+  type: overlay
+  theme: dark
 key: page-eDNA
 ---
 
