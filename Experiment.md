@@ -31,9 +31,9 @@ Maybe it was the colon that made it unhappy?
 
 Or if we wanted, buttons could be added not in the header but below the reading! (so you kinda have to read, though also maybe not)
 
-does making the buttons a table change anything? center them?
+does making the buttons a table change anything? center them? hmm what about center tag? im still thinking it may be old and broken in some places...
 
-|---|---|
-| [Horizontal Distribution from Lantern Nets](#){:.button.button--primary.button--pill} | [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--primary.button--pill} |
+<center>
+[Horizontal Distribution from Lantern Nets](#){:.button.button--primary.button--pill}  [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--primary.button--pill} </center>
 
 
