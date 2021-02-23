@@ -17,7 +17,7 @@ article_header:
       type: secondary
       url: /environmentalDNA
     - text: Start the Experiment!
-      type: outline-theme-light
+      type: outline-theme-dark
       url: /Experiment
 ---
 
