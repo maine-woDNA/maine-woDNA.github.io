@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Let's Start the Experiment!
-excerpt: Testing out an excerpt. can we talk about scallops here? are buttons able to be added or should i use home layout for that?
+excerpt: Testing out an excerpt. can we talk about scallops here? are buttons able to be added or should i use home layout for that? It looks like buttons are okay! So does that mean that if i add a longer excerpt that the title will move up on the page or the excerpt will move down?
 mode: immersive
 header:
   theme: dark
@@ -21,8 +21,6 @@ article_header:
       url: /Experiment
 key: page-experiment
 ---
-
-Testing out adding the experiment page? why can i not see this? Tried to add buttons to header... tbd...
 
 
 
