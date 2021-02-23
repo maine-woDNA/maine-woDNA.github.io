@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Let's Start the Experiment!
-excerpt: Testing out an excerpt. can we talk about scallops here? are buttons able to be added or should i use home layout for that? It looks like buttons are okay! So does that mean that if i add a longer excerpt that the title will move up on the page or the excerpt will move down?
+excerpt: The first step of any scientific experiment is to do bakground research. Scroll down to read the background information, then select which experiment to conduct:
 mode: immersive
 header:
   theme: dark
@@ -13,15 +13,18 @@ article_header:
   background_image:
     src: /assets/images/SampleBackground2.jpg
   actions:
-    - text: Horizontal
-      type: secondary
+    - text: Horizontal Distribution from Lantern Nets
+      type: primary
       url: /environmentalDNA
-    - text: Vertical
+    - text: Vertical Distrubtion from Wild Kelp Beds
       type: primary
       url: /Experiment
 key: page-experiment
 ---
 
+This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
+
+There can be a lot of info here... similar to as if you just did the background work and summarized it.
 
 
 
