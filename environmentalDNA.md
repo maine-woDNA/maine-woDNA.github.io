@@ -3,12 +3,12 @@ layout: article
 title: What is environmental DNA?
 header:
   theme: dark
-  background: rgba(#000, .4)
+  background: rgba(0, 0, 0, .4)
 key: page-eDNA
 ---
 
 
-We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. currently testing header color
+We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. currently testing header color. 2.
 
 But since we dont have much text right now im just going to keep typing so it looks like there is. I am currently drinking a lovely glass of red wine. it is monday night and raining. so perfect for a glass. 
 
