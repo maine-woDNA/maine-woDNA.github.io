@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Home
 description: > # this means to ignore newlines until "Language & timezone"
-  A place to learn about eDNA and walk through the steps of an eDNA experiment
+  
 
 
 ## => Language and Timezone
