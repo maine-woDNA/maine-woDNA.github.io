@@ -3,6 +3,7 @@ layout: article
 title: What is environmental DNA?
 header:
   theme: dark
+  background: rgba(#fff, .4)
 key: page-eDNA
 ---
 
