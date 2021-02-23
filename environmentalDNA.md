@@ -8,7 +8,7 @@ key: page-eDNA
 ---
 
 
-We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. currently testing header color. 2.
+We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. currently testing header color. 2. Committing this at the same time as the experiment page
 
 But since we dont have much text right now im just going to keep typing so it looks like there is. I am currently drinking a lovely glass of red wine. it is monday night and raining. so perfect for a glass. 
 
