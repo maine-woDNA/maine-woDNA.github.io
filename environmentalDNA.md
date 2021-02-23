@@ -1,6 +1,11 @@
 ---
 layout: article
 title: What is environmental DNA?
+article header:
+  type: overlay
+  theme: dark
+  background_color: '#1b62a1'
+  background_image: false
 key: page-eDNA
 ---
 
