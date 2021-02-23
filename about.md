@@ -1,6 +1,9 @@
 ---
 layout: article
 title: About
+header:
+  theme: dark
+  background: rgba(0, 0, 0, .3)
 key: page-about
 ---
 
