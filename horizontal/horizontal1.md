@@ -9,12 +9,14 @@ article_header:
   type: overlay
   align: center
   theme: dark
+  height: 50vh
   mode: immersive
   background_image:
     src: /assets/images/SampleBackground2.jpg
 key: page-experiment
 ---
 
+Trying 50vh for article header height?
 
 This is where we can talk about the sampling scheme and have a drawing of the design or something, we can talk about samples, technical replicates, negative controls, number of distances from the nets, etc. 
 
