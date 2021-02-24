@@ -9,7 +9,6 @@ article_header:
   type: overlay
   align: center
   theme: dark
-  height: 50vh
   mode: immersive
   background_image:
     src: /assets/images/SampleBackground2.jpg
