@@ -38,7 +38,8 @@ Markdown buttons - cant get to be centered
 [Horizontal Distribution from Lantern Nets](#){:.button.button--outline-primary.button--pill}  [Vertical Distrubtion from Wild Scallop Beds](#){:.button.button--outline-primary.button--pill}
 
 
-Html buttons - centered?
+Html buttons - centered? hmm now?
 
-<a align="center" class="button button--outline-primary button--pill" href="">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="">Vertical Distribution from Wild Scallop Beds</a> 
+<p align="center">
+<a class="button button--outline-primary button--pill" href="">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="">Vertical Distribution from Wild Scallop Beds</a> </p>
 
