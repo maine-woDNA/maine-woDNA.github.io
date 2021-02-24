@@ -16,7 +16,7 @@ article_header:
     - text: Horizontal Distribution from Lantern Nets
       type: primary
       url: /environmentalDNA
-    - text: Vertical Distrubtion from Wild Kelp Beds
+    - text: Vertical Distribution from Wild Scallop Beds
       type: primary
       url: /Experiment
 key: page-experiment
@@ -33,7 +33,10 @@ Or if we wanted, buttons could be added not in the header but below the reading!
 
 does making the buttons a table change anything? center them? hmm what about center tag? im still thinking it may be old and broken in some places... div align center? womp. no cetnering buttons at the moment maybe now? with p align?
 
-<p align="center">
-[Horizontal Distribution from Lantern Nets](#){:.button.button--outline-primary.button--pill}  [Vertical Distrubtion from Wild Kelp Beds](#){:.button.button--outline-primary.button--pill}
-<p>
+Markdown buttons - cant get to be centered
+[Horizontal Distribution from Lantern Nets](#){:.button.button--outline-primary.button--pill}  [Vertical Distrubtion from Wild Scallop Beds](#){:.button.button--outline-primary.button--pill}
+
+
+Html buttons - centered?
+<a align="center" class="button button--outline-primary button--pill" href="">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="">Vertical Distribution from Wild Scallop Beds</a> 
 
