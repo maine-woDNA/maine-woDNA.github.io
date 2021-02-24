@@ -15,10 +15,10 @@ article_header:
   actions:
     - text: Horizontal Distribution from Lantern Nets
       type: primary
-      url: /environmentalDNA
+      url: /horizontal/horizontal1
     - text: Vertical Distribution from Wild Scallop Beds
       type: primary
-      url: /Experiment
+      url: /vertical/vertical1
 key: page-experiment
 ---
 
@@ -41,5 +41,5 @@ Markdown buttons - cant get to be centered
 Html buttons - centered? hmm now?
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="">Vertical Distribution from Wild Scallop Beds</a> </p>
+<a class="button button--outline-primary button--pill" href="horizontal/horizontal1">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="vertical/vertical1">Vertical Distribution from Wild Scallop Beds</a> </p>
 
