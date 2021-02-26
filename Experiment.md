@@ -26,15 +26,11 @@ key: page-experiment
 This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
 
 Look at this cool video!!
+
+<p align="center">
 <video width="320" height="240" controls>
   <source src="/assets/videos/Scallop.mp4" type="video/mp4">
-</video>
-
-here it is again but on autoplay!
-
-<video width="320" height="240" autoplay>
-  <source src="/assets/videos/Scallop.mp4" type="video/mp4">
-</video>
+</video> </p>
 
 
 There can be a lot of info here... similar to as if you just did the background work and summarized it.
