@@ -20,6 +20,8 @@ hmm article header to 25 and 20 rem instead og 36 and 29?
 
 Testing changing the padding to *1
 
+Spacers value 1 instead of 5?
+
 This is where we can talk about the sampling scheme and have a drawing of the design or something, we can talk about samples, technical replicates, negative controls, number of distances from the nets, etc. 
 
 In order to continue with the experiment, verify how many samples (negatives included) we will be collecting today!
