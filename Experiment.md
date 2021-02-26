@@ -30,6 +30,13 @@ Look at this cool video!!
   <source src="/assets/videos/Scallop.mp4" type="video/mp4">
 </video>
 
+here it is again but on autoplay!
+
+<video width="320" height="240" autoplay>
+  <source src="/assets/videos/Scallop.mp4" type="video/mp4">
+</video>
+
+
 There can be a lot of info here... similar to as if you just did the background work and summarized it.
 
 Maybe it was the colon that made it unhappy?
