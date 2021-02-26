@@ -28,7 +28,7 @@ This is where we can have background info on scallops, wild beds vs lantern nets
 Look at this cool video!!
 
 <p align="center">
-<video width="320" height="240" controls>
+<video width="400" controls>
   <source src="/assets/videos/Scallop.mp4" type="video/mp4">
 </video> </p>
 
