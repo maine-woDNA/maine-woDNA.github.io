@@ -13,9 +13,9 @@ article_header:
   background_image:
     src: /assets/images/SampleBackground2.jpg
   actions:
-    - text: Horizontal Distribution from Lantern Nets
+    - text: TEST: TO FILTERING PAGE
       type: primary
-      url: /horizontal/horizontal1
+      url: /Fitering/background
     - text: Vertical Distribution from Wild Scallop Beds
       type: primary
       url: /vertical/vertical1
