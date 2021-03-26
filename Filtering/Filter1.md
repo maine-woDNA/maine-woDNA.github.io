@@ -18,4 +18,4 @@ article_header:
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Filtering/Storing1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Filtering/Storing2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Filtering/Storing2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="Storing1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Storing2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Storing2">INCORRECT BUTTON 3</a></p>

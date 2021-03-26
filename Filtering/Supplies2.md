@@ -18,4 +18,4 @@ article_header:
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Filtering/Background">GO BACK AND TRY AGAIN</a> ></p>
+<a class="button button--outline-primary button--pill" href="Background">GO BACK AND TRY AGAIN</a> ></p>

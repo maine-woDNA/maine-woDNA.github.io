@@ -18,4 +18,4 @@ article_header:
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Extraction/Background">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Filtering/Extraction2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Filtering/Extraction2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="maine-wodna.github.io/Extraction/Background">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Extraction2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Extraction2">INCORRECT BUTTON 3</a></p>
