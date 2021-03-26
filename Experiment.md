@@ -13,7 +13,7 @@ article_header:
   background_image:
     src: /assets/images/SampleBackground2.jpg
   actions:
-    - text: TEST: TO FILTERING PAGE
+    - text: TESTING FILTERING PAGE
       type: primary
       url: /Fitering/background
     - text: Vertical Distribution from Wild Scallop Beds
