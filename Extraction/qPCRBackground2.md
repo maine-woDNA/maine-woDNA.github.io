@@ -1,6 +1,6 @@
 ---
 layout: article
-title: EXTRACTION - INCORRECT!
+title: qPCR - INCORRECT!
 excerpt: TYPE EXCERPT HERE
 mode: immersive
 header:
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO EXTRACT PROPERLY**
+**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO qPCR PROPERLY**
 
 
 <p align="center">
