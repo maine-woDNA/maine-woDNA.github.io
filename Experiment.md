@@ -15,7 +15,7 @@ article_header:
   actions:
     - text: TESTING FILTERING PAGE
       type: primary
-      url: /Filtering/Background
+      url: /Filtering/FiltrationBackground
     - text: Vertical Distribution from Wild Scallop Beds
       type: primary
       url: /vertical/vertical1

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: FILTERING SUPPLIES - INCORRECT!
+title: EXTRACTION - INCORRECT!
 excerpt: TYPE EXCERPT HERE
 mode: immersive
 header:
@@ -14,8 +14,8 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER FILTERING SUPPLIES**
+**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO EXTRACT PROPERLY**
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="FiltrationBackground">GO BACK AND TRY AGAIN</a> ></p>
+<a class="button button--outline-primary button--pill" href="Storing1">GO BACK AND TRY AGAIN</a> ></p>
