@@ -1,6 +1,6 @@
 ---
 layout: article
-title: qPCR ANALYSIS
+title: HORIZONTAL STORAGE - INCORRECT!
 excerpt: TYPE EXCERPT HERE
 mode: immersive
 header:
@@ -14,8 +14,8 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL HAVE INFORMATION ON ANALYSIS of VERTICAL qPCR SAMPLES**
+**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO STORE YOUR WATER PROPERLY**
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Conclusions">CORRECT BUTTON - TO CONCLUSIONS</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalCollection1">GO BACK AND TRY AGAIN</a> ></p>

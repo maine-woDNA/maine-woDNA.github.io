@@ -1,6 +1,6 @@
 ---
 layout: article
-title: HORIZONTAL qPCR - INCORRECT!
+title: HORIZONTAL Collection - INCORRECT!
 excerpt: TYPE EXCERPT HERE
 mode: immersive
 header:
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO qPCR PROPERLY**
+**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO COLLECT PROPERLY**
 
 
 <p align="center">

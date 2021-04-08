@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER qPCR SUPPLIES**
+**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER WATER COLELCTION SUPPLIES**
 
 
 <p align="center">
