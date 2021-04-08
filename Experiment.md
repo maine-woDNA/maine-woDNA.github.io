@@ -12,16 +12,8 @@ article_header:
   mode: immersive
   background_image:
     src: /assets/images/SampleBackground2.jpg
-  actions:
-    - text: Horizontal Distribution from Lantern Nets
-      type: primary
-      url: Collection/HorizontalBackground
-    - text: Vertical Distribution from Wild Scallop Beds
-      type: primary
-      url: Collection/VerticalBackground
-key: page-experiment
 ---
-changed to 200 on example hero page? seems weird...
+font weight not bold for excerpt?
 
 This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
 
