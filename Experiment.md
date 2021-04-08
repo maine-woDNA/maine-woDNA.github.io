@@ -10,6 +10,7 @@ article_header:
   align: center
   theme: dark
   mode: immersive
+  height: 500px
   background_image:
     src: /assets/images/SampleBackground2.jpg
   actions:
@@ -21,7 +22,7 @@ article_header:
       url: Collection/VerticalBackground
 key: page-experiment
 ---
-
+ 500px height?
 
 This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
 
