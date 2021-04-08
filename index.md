@@ -16,8 +16,11 @@ article_header:
     - text: What is eDNA?
       type: secondary
       url: /environmentalDNA
-    - text: Start the Experiment!
+    - text: Where are we in Maine?
       type: primary
+      url: /WhereInMaine
+    - text: Start the Experiment!
+      type: secondary
       url: /Experiment
 ---
 
