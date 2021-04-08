@@ -13,12 +13,12 @@ article_header:
   background_image:
     src: /assets/images/SampleBackground2.jpg
   actions:
-    - text: TESTING FILTERING PAGE
+    - text: Horizontal Distribution from Lantern Nets
       type: primary
-      url: /Filtering/FiltrationBackground
+      url: Collection/HorizontalBackground
     - text: Vertical Distribution from Wild Scallop Beds
       type: primary
-      url: /vertical/vertical1
+      url: Collection/VerticalBackground
 key: page-experiment
 ---
 
@@ -44,15 +44,8 @@ Maybe it was the colon that made it unhappy?
 
 Or if we wanted, buttons could be added not in the header but below the reading! (so you kinda have to read, though also maybe not)
 
-does making the buttons a table change anything? center them? hmm what about center tag? im still thinking it may be old and broken in some places... div align center? womp. no cetnering buttons at the moment maybe now? with p align?
-
-Markdown buttons - cant get to be centered
-
-[Horizontal Distribution from Lantern Nets](#){:.button.button--outline-primary.button--pill}  [Vertical Distrubtion from Wild Scallop Beds](#){:.button.button--outline-primary.button--pill}
-
-
 Html buttons - centered? hmm now?
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="horizontal/horizontal1">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="vertical/vertical1">Vertical Distribution from Wild Scallop Beds</a> </p>
+<a class="button button--outline-primary button--pill" href="Collection/HorizontalBackground">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="Collection/VerticalBackground">Vertical Distribution from Wild Scallop Beds</a> </p>
 
