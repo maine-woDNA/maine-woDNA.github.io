@@ -13,7 +13,6 @@ article_header:
   background_image:
     src: /assets/images/SampleBackground2.jpg
 ---
-removed paddings for header?
 
 This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
 
