@@ -10,7 +10,7 @@ article_header:
   align: center
   theme: dark
   mode: immersive
-  background_image:
+  image:
     src: /assets/images/SampleBackground2.jpg
 ---
 row 134 page html added height? correct header type now? overlay, dark, center?
