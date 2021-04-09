@@ -10,13 +10,10 @@ article_header:
   align: center
   theme: dark
   mode: immersive
-  image:
+  background_image:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-Article header image instead of background image?
-
-font weight not bold for excerpt?
 
 This is where we can have background info on scallops, wild beds vs lantern nets, etc. We can have images of what each of those may look like, or drawings! 
 
