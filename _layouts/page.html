@@ -133,13 +133,13 @@ layout: base
               {%- if _article_header_align == 'center' -%}
                 <div class="hero hero--center hero--dark overlay" style="{{ _header_style }}">
               {%- else -%}
-                <div class="hero hero--dark overlay" style="{{ _header_style }}">
+                <div class="hero hero--dark overlay" style="{{ _header_style }}  height: 100px;">
               {%- endif -%}
             {%- else -%}
               {%- if _article_header_align == 'center' -%}
                 <div class="hero hero--center overlay" style="{{ _header_style }}">
               {%- else -%}
-                <div class="hero overlay" style="{{ _header_style }} height: 100px;">
+                <div class="hero overlay" style="{{ _header_style }}">
               {%- endif -%}
             {%- endif -%}
                 <div class="hero__content">
