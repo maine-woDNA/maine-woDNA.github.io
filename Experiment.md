@@ -13,7 +13,8 @@ article_header:
   image:
     src: /assets/images/SampleBackground2.jpg
 ---
-row 134 page html added height? correct header type now? overlay, dark, center?
+
+Article header image instead of background image?
 
 font weight not bold for excerpt?
 
