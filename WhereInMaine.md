@@ -13,3 +13,8 @@ Pictures of Hurricane!
 
 Maps of Maine!
 
+
+Phoebe has taught us alllll about the island
+and scallops
+
+here is some more information on that! 
