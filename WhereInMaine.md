@@ -17,4 +17,7 @@ Maps of Maine!
 Phoebe has taught us alllll about the island
 and scallops
 
+**PUT HURRICANEISLANDPIC.jpg HERE**
+
+
 here is some more information on that! 
