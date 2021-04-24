@@ -75,7 +75,7 @@ Next we had to prepare the Niskin for deployment. To do this, we first attached 
 ![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
 
 *Opening the stoppers and attaching the elastic to the release mechanism. The white valve is closed:*     
-![HI-NiskinPrep4](/assets/images/HI/HI-NiskinPrep4.jpeg)  
+![HI-NiskinsPrep4](/assets/images/HI/HI-NiskinsPrep4.jpeg)  
 
 
 
