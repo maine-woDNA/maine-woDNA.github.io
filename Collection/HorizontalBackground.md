@@ -60,7 +60,7 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 We used Niskins to collect our horizontal water samples at the scallop sea farm site. To do this, we followed a collection protocol made up of the following steps: 
 
-*Step 1: Cleaning the Niskin*    
+***Step 1: Cleaning the Niskin***    
 
 Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample and would ensure that we did not cause cross-contamination between sites. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly after collecting our 2 replicates at each site.
 
@@ -68,28 +68,28 @@ Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cl
 
 
 
-*Step 2: Preparing the Niskin*   
+***Step 2: Preparing the Niskin***   
 Next we had to prepare the Niskin for deployment. To do this, we first attached the Niskin to our line. We then opened both stoppers by attaching the elastics to the release mechanism. Lastly we made sure the Niskin valve, the small white valve that helps water flow freely out of the Niskin, was closed.
 
-Attaching the Niskin to our line:    
+*Attaching the Niskin to our line:*    
 ![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
 
-Opening the stoppers and attaching the elastic to the release mechanism. The white valve is closed:     
+*Opening the stoppers and attaching the elastic to the release mechanism. The white valve is closed:*     
 ![HI-NiskinPrep4](/assets/images/HI/HI-NiskinPrep4.jpeg)  
 
 
 
-*Step 3: Deploying the Niskin*   
+***Step 3: Deploying the Niskin***   
 We then deployed the Niskin by lowering it into the water. Our line had a heavy weight at the bottom that helped the Niskin sink. Once tossed overboard, we slowly lowered the Niskin into the water.
 
-Toss it overboard:   
+*Tossing it overboard:*   
 ![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment3.jpeg)   
 
-And down it goes:    
+*And down it goes:*    
 ![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment2.jpeg)  
 
 
-*Step 4: Capturing the Sample*    
+***Step 4: Capturing the Sample***    
 Finally, we triggered the release mechanism by sending the weight, or messenger, down our line. Once the messenger collided with the Niskin it released the stoppers and sealed our water sample. We then pulled up our line and brought our Niskin onboard!
 
 *Add video of messenger?*
@@ -97,7 +97,7 @@ Finally, we triggered the release mechanism by sending the weight, or messenger,
 
 
 
-***Check Your Knowledge***
+***CHECK YOUR KNOWLEDGE***
 
 Time to check your knowledge! You are at your first sampling location at 1 m away from the sea farm site and you are getting your Niskin ready for deployment. What is the last step you need to do before putting it in the water?
 
