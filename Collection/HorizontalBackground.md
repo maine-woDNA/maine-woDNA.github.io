@@ -39,20 +39,46 @@ Because these racks were suspended at a set depth near the surface, we wanted to
 
 Will this be covered in the background? 
 
-**Water Collection**
+**What is a Niskin?**
 
-Once we arrived at the sea farm off Hurrican Island, we were ready to collect some water! To do this we use a collection bottle called a Niskin (see image below). 
+Once we arrived at the sea farm off Hurricane Island, we were ready to collect some water! To do this we use a collection bottle called a Niskin (see image below). 
 
 A Niskin bottle is an ocean-water sampler used to collect water at a desired depth without mixing with water from other depths. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can be fully sealed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
 
 *Niskin Bottle*    
-![Niskin-Model](/assets/images/Niskin-Model.jpeg)
-Photo credit:Flanders Marine Institute ©VLIZ 
-![HI-Niskin1](/assets/images/HI/HI-Niskin1.jpeg)
+![Niskin-Model](/assets/images/Niskin-Model.jpeg)     
+Photo credit: Flanders Marine Institute ©VLIZ     
+
+![HI-Niskin1](/assets/images/HI/HI-Niskin1.jpeg)     
+
+**Using a Niskin to Collect eDNA Water Samples**
+
+Before deploy 
+
+*Cleaning the Niskin*    
+
+![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg)  
+
+*Preparing the Niskin*   
+
+Attaching the Niskin to our line:    
+![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
+
+Opening the stoppers and attaching the elastic to the release mechanism:     
+![HI-Niskin1](/assets/images/HI/HI-NiskinPrep3.jpeg)  
+
+*Deploying the Niskin*   
+
+Toss them overboard:   
+![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment3.jpeg)   
+
+And down it goes:    
+![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment2.jpeg)  
+
 
 
 Steps:
--cleaning and labeling bottles
+-cleaning and labeling bottles (next page--'we already did this')
 -cleaning niskin
 -deploying niskin
 -putting water in bottles: rinsing, filling to 1L (next page) 
@@ -61,7 +87,7 @@ Steps:
 
 ***Check Your Knowledge***
 
-Time to check your knowledge! Your bottles are cleaned, labeled, and safely stored on the boat with you. You have just collected your first 1 L sample at 1 m from the site. Referring back to your sampling scheme (Figure 2) what do you need to do next?
+Time to check your knowledge! You have just used the Niskin to collect your first 1 L sample at 1 m from the site. Referring back to your sampling scheme (Figure 2), what do you need to do next?
 
 A. Re-deploy your Niskin to collect your replicate (second sample) at 1 m away from the site.        
 
