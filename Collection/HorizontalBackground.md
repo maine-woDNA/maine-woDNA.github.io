@@ -28,13 +28,15 @@ These nets and cages come in many shapes and sizes, for example lantern nets (Im
 ![HI_LanternNet](/assets/images/HI/HI_LanternNet.jpeg)
 
 *Image B*    
-![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)
+![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)         
 
 
+Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 below.  
 
-
-Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 below.
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
+
+
+
 
 
 
@@ -44,9 +46,10 @@ Will this be covered in the background?
 
 
 
+
 **What is a Niskin?**
 
-Once we arrived at the sea farm off Hurricane Island, we were ready to collect some water! To do this we use a collection bottle called a Niskin (see image below). 
+Once we arrived at the sea farm off Hurricane Island, we were ready to collect some water! To do this we used a collection bottle called a Niskin (see image below). 
 
 A Niskin bottle is an ocean-water sampler used to collect water at a desired depth without mixing with water from other depths. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can be fully sealed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
 
