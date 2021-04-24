@@ -14,9 +14,9 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**Using Horizontal Sampling Collection to Learn About Farmed Scallop eDNA**
+***Using Horizontal Sampling Collection to Learn About Farmed Scallop eDNA***
 
-*eDNA From Scallop Sea Farms*
+**eDNA From Scallop Sea Farms**
 
 For this portion of the study we started with the question: How does eDNA disperse from scallop sea farm (also knowns as aquaculture) sites? 
 
@@ -35,10 +35,17 @@ Because these racks were suspended at a set depth near the surface, we wanted to
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
 
 
-*Water Collection*
+**Getting to Our Site**
 
-Now that we have a sampling scheme, let's collect some water! to do this we will use a collection bottle called a Niskin. A Niskin bottle is an
+Will this be covered in the background? 
+
+**Water Collection**
+
+Once we arrived at the sea farm off Hurrican Island, we were ready to collect some water! To do this we use a collection bottle called a Niskin (see image below). A Niskin bottle is an ocean-water sampler used to collect water at-depth. The bottle itself is made of a long cylinder with openings at both ends. These openings can then be closed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
+
+
 *Niskin Bottle*    
+![Niskin-Model](/assets/images/Niskin-Model.jpeg)
 ![HI_Niskin1](/assets/images/HI/HI_Niskin1.jpeg)
 
 
