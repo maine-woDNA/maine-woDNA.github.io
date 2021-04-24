@@ -64,8 +64,8 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 **Using a Niskin to Collect eDNA Water Samples**
 
-Before deploy 
 
+We used Niskins to collect our horizontal water samples at the 
 
 
 *Cleaning the Niskin*    
@@ -86,7 +86,7 @@ Opening the stoppers and attaching the elastic to the release mechanism:
 
 *Deploying the Niskin*   
 
-Toss them overboard:   
+Toss it overboard:   
 ![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment3.jpeg)   
 
 And down it goes:    
@@ -94,12 +94,11 @@ And down it goes:
 
 
 
-Steps:
--cleaning and labeling bottles (next page--'we already did this')
--cleaning niskin
--deploying niskin
--putting water in bottles: rinsing, filling to 1L (next page) 
--putting in cooler (next page)
+
+
+***You've just collected your first water sample!***
+
+
 
 
 ***Check Your Knowledge***
