@@ -51,7 +51,7 @@ Will this be covered in the background?
 
 Once we arrived at the sea farm off Hurricane Island, we were ready to collect some water! To do this we used a collection bottle called a Niskin (see image below). 
 
-A Niskin bottle is an ocean-water sampler used to collect water at a desired depth without mixing with water from other depths. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can be fully sealed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
+A Niskin bottle is an ocean-water sampler used to collect water at a desired depth without mixing with water from other depths. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can be fully sealed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic cords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
 
 *Niskin Bottle*    
                       ![Niskin-Model](/assets/images/Niskin-Model.jpeg)     
@@ -71,7 +71,7 @@ We used Niskins to collect our horizontal water samples at the scallop sea farm 
 
 *Step 1: Cleaning the Niskin*    
 
-Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample or that we wouldn't cause cross-contamination between signts. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly.
+Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample or that we wouldn't cause cross-contamination between sites. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly.
 
 ![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg)  
 
