@@ -83,7 +83,7 @@ Attaching the Niskin to our line:
 ![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
 
 Opening the stoppers and attaching the elastic to the release mechanism:     
-![HI-Niskin1](/assets/images/HI/HI-NiskinPrep4.jpeg)  
+![HI-NiskinPrep4](/assets/images/HI/HI-NiskinPrep4.jpeg)  
 
 
 
