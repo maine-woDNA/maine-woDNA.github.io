@@ -25,10 +25,10 @@ Unlike wild scallop populations that live on the ocean floor, sea farmers grow s
 These nets and cages come in many shapes and sizes, for example lantern nets (Image A) or racks, like the ones they use at Hurricane Island (Image B)!
 
 *Image A*    
-![HI_LanternNet](/assets/images/HI_LanternNet.jpeg)
+![HI_LanternNet](/assets/images/HI/HI_LanternNet.jpeg)
 
 *Image B*    
-![HI_Scallops1](/assets/images/HI_Scallops1.jpeg)
+![HI_Scallops1](/assets/images/HI/HI_Scallops1.jpeg)
 
 
 Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 below.
