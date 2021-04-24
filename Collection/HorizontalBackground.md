@@ -25,10 +25,10 @@ Unlike wild scallop populations that live on the ocean floor, sea farmers grow s
 These nets and cages come in many shapes and sizes, for example lantern nets (Image A) or racks, like the ones they use at Hurricane Island (Image B)!
 
 *Image A*
-![HI_LanternNet](/assets/images/HI_LanternNet.jpg)
+![HI_LanternNet](/assets/images/HI_LanternNet.jpeg)
 
 *Image B*
-![HI_Scallops1](/assets/images/HI_Scallops1.jpg)
+![HI_Scallops1](/assets/images/HI_Scallops1.jpeg)
 
 
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
