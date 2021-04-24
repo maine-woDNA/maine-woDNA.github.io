@@ -57,13 +57,22 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 ![HI-Niskin1](/assets/images/HI/HI-Niskin1.jpeg)     
 
+
+
+
+
+
 **Using a Niskin to Collect eDNA Water Samples**
 
 Before deploy 
 
+
+
 *Cleaning the Niskin*    
 
 ![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg)  
+
+
 
 *Preparing the Niskin*   
 
@@ -71,7 +80,9 @@ Attaching the Niskin to our line:
 ![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
 
 Opening the stoppers and attaching the elastic to the release mechanism:     
-![HI-Niskin1](/assets/images/HI/HI-NiskinPrep3.jpeg)  
+![HI-Niskin1](/assets/images/HI/HI-NiskinPrep4.jpeg)  
+
+
 
 *Deploying the Niskin*   
 
@@ -95,11 +106,11 @@ Steps:
 
 Time to check your knowledge! You have just used the Niskin to collect your first 1 L sample at 1 m from the site. Referring back to your sampling scheme (Figure 2), what do you need to do next?
 
-A. Re-deploy your Niskin to collect your replicate (second sample) at 1 m away from the site.        
+**A.** Re-deploy your Niskin to collect your replicate (second sample) at 1 m away from the site.        
 
-B. Thoroughly clean your Niskin with 10% bleach and DI and collect your next sample at 16 m away from the site.      
+**B.** Thoroughly clean your Niskin with 10% bleach and DI and collect your next sample at 16 m away from the site.      
 
-C. Rinse your Niskin with surface water and collect your next sample at 2 m away from the site.   
+**C.** Rinse your Niskin with surface water and collect your next sample at 2 m away from the site.   
 
 
 
