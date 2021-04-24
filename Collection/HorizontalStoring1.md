@@ -23,11 +23,11 @@ article_header:
 
 Time to check your knowledge! ...?
 
-**A.** 
+**A.** On ice
 
-**B.**    
+**B.** Away from light in a plastic tote    
 
-**C.** 
+**C.** Oops I forgot ice!
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 3</a></p>
