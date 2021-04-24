@@ -1,7 +1,7 @@
 ---
 layout: article
 title: HORIZONTAL COLLECTION BACKGROUND
-excerpt: TYPE EXCERPT HERE
+excerpt: You've Selected Horizontal Sampling Collection! 
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,9 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL HAVE BACKGROUND INFORMATION ON HORIZONTAL COLLECTION**
+**Let's Learn About Horizontal Sampling Collection**
+
+
 
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
 
