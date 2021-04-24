@@ -14,7 +14,9 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL HAVE INFORMATION ON Collection - Horizontal**
+**Nicely done!**
+
+
 
 Next step of collection--putting into bottles and storage
 

@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO COLLECT PROPERLY**
+**Note quite! Review your sampling scheme and try again.**
 
 
 <p align="center">
