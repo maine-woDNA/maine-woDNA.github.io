@@ -44,7 +44,15 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 **1 L Sample Bottles**  
 
-![HI-Niskin1](/assets/images/HI/HI-Niskin1.jpeg)    
+
+*Labeling our sample bottles:*
+![HI-Labeling2](/assets/images/HI/HI-Labeling2.jpeg)   
+
+*Our sample bottles all ready to go!*
+![HI-Labeling3](/assets/images/HI/HI-Labeling3.jpeg)  
+
+
+ 
 
 **Coolers with Ice**   
 
