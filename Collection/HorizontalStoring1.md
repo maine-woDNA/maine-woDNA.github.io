@@ -15,6 +15,19 @@ article_header:
 ---
 
 **THIS PAGE WILL HAVE INFORMATION ON ANALYSIS of HORIZONTAL qPCR SAMPLES**
+(coming from collection)
+
+
+
+***CHECK YOUR KNOWLEDGE***
+
+Time to check your knowledge! ...?
+
+**A.** 
+
+**B.**    
+
+**C.** 
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 3</a></p>

@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**Note quite! Review your sampling scheme and try again.**
+**Note quite! Review your protocol and try again.**
 
 
 <p align="center">
