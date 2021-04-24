@@ -46,7 +46,7 @@ Once we arrived at the sea farm off Hurrican Island, we were ready to collect so
 
 *Niskin Bottle*    
 ![Niskin-Model](/assets/images/Niskin-Model.jpeg)
-![HI_Niskin1](/assets/images/HI/HI_Niskin1.jpeg)
+![HI-Niskin1](/assets/images/HI/HI-Niskin1.jpeg)
 
 
 
