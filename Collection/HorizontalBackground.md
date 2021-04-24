@@ -18,7 +18,7 @@ article_header:
 
 **eDNA From Scallop Sea Farms**
 
-For this portion of the study we started with the question: How does eDNA disperse from scallop sea farm sites (also knowns as aquaculture sites)? 
+For this portion of the study we started with the question: How does eDNA disperse from scallop sea farm sites (also known as aquaculture sites)? 
 
 Unlike wild scallop populations that live on the ocean floor, sea farmers grow scallops in suspended cages or nets. 
 
@@ -35,14 +35,6 @@ Because these racks were suspended at a set depth near the surface, we wanted to
 
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
 
-
-
-
-
-
-**Getting to Our Site**
-
-Will this be covered in the background? 
 
 
 
@@ -64,14 +56,13 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 
 
-
 **Using a Niskin to Collect eDNA Water Samples**
 
 We used Niskins to collect our horizontal water samples at the scallop sea farm site. To do this, we followed a collection protocol made up of the following steps: 
 
 *Step 1: Cleaning the Niskin*    
 
-Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample or that we wouldn't cause cross-contamination between sites. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly.
+Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample and would ensure that we did not cause cross-contamination between sites. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly after collecting our 2 replicates at each site.
 
 ![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg)  
 
