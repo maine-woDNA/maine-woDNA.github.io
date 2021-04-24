@@ -63,9 +63,12 @@ Steps:
 
 Time to check your knowledge! Your bottles are cleaned, labeled, and safely stored on the boat with you. You have just collected your first 1 L sample at 1 m from the site. Referring back to your sampling scheme (Figure 2) what do you need to do next?
 
-A. Re-deploy your Niskin to collect your replicate (second sample) at 1 m.
-B. Thoroughly clean your Niskin with 10% bleach and DI and collect your next sample at 16 m away from the site.
-C. Rinse your Niskin with surface water and collect your next sample at 2 m.   
+A. Re-deploy your Niskin to collect your replicate (second sample) at 1 m away from the site.        
+
+B. Thoroughly clean your Niskin with 10% bleach and DI and collect your next sample at 16 m away from the site.      
+
+C. Rinse your Niskin with surface water and collect your next sample at 2 m away from the site.   
+
 
 
 <p align="center">
