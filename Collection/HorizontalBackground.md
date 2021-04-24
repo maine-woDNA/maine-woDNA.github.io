@@ -43,7 +43,7 @@ Will this be covered in the background?
 
 Once we arrived at the sea farm off Hurrican Island, we were ready to collect some water! To do this we use a collection bottle called a Niskin (see image below). 
 
-A Niskin bottle is an ocean-water sampler used to collect water at-depth. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can then be closed with stoppers to seal the bottle completely and capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
+A Niskin bottle is an ocean-water sampler used to collect water at a desired depth without mixing with water from other depths. The bottle itself is made of a long plastic cylinder with openings at both ends. These openings can be fully sealed with stoppers to capture water samples. When a Niskin is deployed, the stoppers are held open by elastic chords connected to a release mechanism. Once the Niskin is at the correct depth, the researchers send a weight, known as a messenger, down the rope that is attached to the Niskin. When the messenger collides with the Niskin it triggers the release mechanism, releasing the elastic chords and causing both stoppers to close--capturing the water sample. 
 
 *Niskin Bottle*    
 ![Niskin-Model](/assets/images/Niskin-Model.jpeg)
