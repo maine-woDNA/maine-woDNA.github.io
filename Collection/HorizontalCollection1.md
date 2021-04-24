@@ -61,6 +61,7 @@ Finally, we triggered the release mechanism by sending the weight, or messenger,
 *Add video of messenger?*
 
 
+##ADD DATA LOGGING AND BOTTLES
 
 
 ***CHECK YOUR KNOWLEDGE***
@@ -71,7 +72,8 @@ Time to check your knowledge! You are at your first sampling location at 1 m awa
 
 **B.** Thoroughly clean your Niskin with 10% bleach and one rinse of tap water.      
 
-**C.** Attach your Niskin to your line and make sure your stoppers and tightly sealed.   
+**C.** Attach your Niskin to your line and make sure your stoppers are tightly sealed.  
+
 
 
 

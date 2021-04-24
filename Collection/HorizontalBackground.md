@@ -59,11 +59,11 @@ At the aquaculture site, horizontal water samples would be taken at exponentiall
 
 Time to check your knowledge! ...?
 
-**A.** 
+**A.** Hypothesis 1/ # of samples?
 
-**B.**    
+**B.** Hypothesis 2/ # of samples?    
 
-**C.** 
+**C.** Hypothesis 3/ # of samples?
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="HorizontalSupplies1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 3</a></p>

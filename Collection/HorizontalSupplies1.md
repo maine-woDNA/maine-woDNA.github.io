@@ -67,11 +67,11 @@ Photo credit: Flanders Marine Institute ©VLIZ
 
 Time to check your knowledge! ...?
 
-**A.** 
+**A.** Supply list 1
 
-**B.**    
+**B.** Supply list 2    
 
-**C.** 
+**C.** Supply list 3
 
 
 
