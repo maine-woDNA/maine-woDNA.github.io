@@ -28,7 +28,7 @@ These nets and cages come in many shapes and sizes, for example lantern nets (Im
 ![HI_LanternNet](/assets/images/HI/HI_LanternNet.jpeg)
 
 *Image B*    
-![HI_Scallops1](/assets/images/HI/HI_Scallops1.jpeg)
+![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)
 
 
 Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 below.
@@ -36,6 +36,10 @@ Because these racks were suspended at a set depth near the surface, we wanted to
 
 
 *Water Collection*
+
+Now that we have a sampling scheme, let's collect some water! to do this we will use a collection bottle called a Niskin. A Niskin bottle is an
+*Niskin Bottle*    
+![HI_Niskin1](/assets/images/HI/HI_Niskin1.jpeg)
 
 
 
