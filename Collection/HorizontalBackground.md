@@ -16,6 +16,9 @@ article_header:
 
 **THIS PAGE WILL HAVE BACKGROUND INFORMATION ON HORIZONTAL COLLECTION**
 
+![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
+
+
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="HorizontalSupplies1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 3</a></p>
