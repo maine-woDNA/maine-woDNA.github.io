@@ -14,8 +14,19 @@ article_header:
     src: /assets/images/SampleBackground2.jpg
 ---
 
-**Let's Learn About Horizontal Sampling Collection**
+**Using Horizontal Sampling Collection to Learn About Farmed Scallop eDNA**
 
+For this portion of the study we started with the question: How does eDNA disperse from scallop sea farm (also knowns as aquaculture) sites? 
+
+Unlike wild scallop populations that live on the ocean floor, sea farmers grow scallops in suspended cages or nets. 
+
+These nets and cages come in many shapes and sizes, for example lantern nets (Image A) or racks, like the ones they use at Hurricane Island (Image B)!
+
+*Image A*
+![HI_LanternNet](/assets/images/HI_LanternNet.jpg)
+
+*Image B*
+![HI_Scallops1](/assets/images/HI_Scallops1.jpg)
 
 
 ![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)
