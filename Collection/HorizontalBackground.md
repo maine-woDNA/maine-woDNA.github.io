@@ -34,7 +34,7 @@ These nets and cages come in many shapes and sizes, for example lantern nets (Im
 
 **Creating Our Sampling Scheme**
 
-Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 below. 
+Because these racks were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved further away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 Section B below. 
 
 At the aquaculture site, horizontal water samples would be taken at exponentially greater distances starting at the racks. Our first sample would be collected at 1 m followed by 2 m, 4 m, 16 m, 32 m, 64 m, 128 m, and 256 m meters from the net (Figure 2). At each distance water samples would be collected in duplicate. 
 
