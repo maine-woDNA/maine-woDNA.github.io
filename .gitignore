@@ -9,6 +9,8 @@
 *.log
 *.log.*
 
+.Rhistory
+
 /.vscode/
 
 node_modules/
