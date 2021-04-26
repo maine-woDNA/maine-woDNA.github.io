@@ -18,4 +18,4 @@ article_header:
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/qPCR/qPCRBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="qPCRBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="qPCRBackground2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/qPCR/HorizontalqPCRBackground">HORIZONTAL EXPERIMENT</a> <a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/qPCR/VerticalqPCRBackground">VERTICAL EXPERIMENT</a></p>
