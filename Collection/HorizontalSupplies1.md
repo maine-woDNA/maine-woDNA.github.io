@@ -11,7 +11,7 @@ article_header:
   theme: light
   mode: immersive
   background_image:
-    src: /assets/images/HI/HISupplies1.jpeg
+    src: /assets/images/HI/HI-BoatSupplies1.jpeg
 ---
 
 ***SAMPLING SUPPLIES***
