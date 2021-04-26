@@ -7,7 +7,7 @@ header:
 key: page-about
 ---
 
-![Sample Image1](/assets/images/HI/HI-FerryGroup2.jpeg)
+![Ferry Group Photo](/assets/images/HI/HI-FerryGroup2.jpeg)
 
 Edit this page by going to about.md. Im thinking we can give background on this project right here and who we are? We can also turn those topics onto different pages if we wanted to!
 

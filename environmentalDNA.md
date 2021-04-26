@@ -8,17 +8,13 @@ key: page-eDNA
 ---
 
 
-We can have a blurb about what eDNA is here! we can include images and other things (like a video embedded if we want!) as well. See look! here is an example video, even though its totally not about eDNA!
+Environmental DNA (eDNA) is DNA collected from the environment, such as water or soil, to determine which organisms have recently been in the sampling location. All organisms (both plants and animals) shed DNA naturally in the form of cells and DNA fragments, and by collecting the water or soil that contains the shed DNA, the presence of organisms can be determined without collecting the organisms themselves. 
 
-<div align = "center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/juvgikE30qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-But since we dont have much text right now im just going to keep typing so it looks like there is. I am currently drinking a lovely glass of red wine. it is monday night and raining.
-
-
-okay. this is enough of an example. we can even have subheaders and talk about the steps of an eDNA experiment here if we wanted to. And example can be seen below:
+![eDNAVisual](/assets/images/OceaneDNA.png)
 
 ## Steps to conduct an eDNA experiment
+
+![eDNASteps](/assets/images/eDNASteps.jpg)
 
 ### Collection
 
