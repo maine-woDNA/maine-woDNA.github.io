@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/Headers/Samples1B.jpg
 ---
 
 **THIS PAGE WILL HAVE BACKGROUND INFORMATION ON EXTRACTION**

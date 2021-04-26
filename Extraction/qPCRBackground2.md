@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/Headers/qPCR5.jpg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO qPCR PROPERLY**

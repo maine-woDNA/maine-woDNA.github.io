@@ -11,11 +11,11 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/Headers/ExtractionKit1.jpg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER EXTRACTION SUPPLIES**
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="ExtractionBackground">GO BACK AND TRY AGAIN</a> ></p>
+<a class="button button--outline-primary button--pill" href="ExtractionBackground">GO BACK AND TRY AGAIN</a></p>

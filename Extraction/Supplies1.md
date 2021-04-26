@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/Headers/ExtractionKit1.jpg
 ---
 
 **THIS PAGE WILL HAVE INFORMATION ON EXTRACTION SUPPLIES  & CLEANING**
