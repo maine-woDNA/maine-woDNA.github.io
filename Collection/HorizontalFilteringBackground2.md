@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/BIG-FILT/FilterRig5.jpeg
+    src: /assets/images/Headers/FilterRig5.jpeg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO FILTER PROPERLY**

@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-BoatDockView.jpeg
+    src: /assets/images/Headers/HI-BoatDockView.jpeg
 ---
 
 ***Using Horizontal Sampling Collection to Learn About Farmed Scallop eDNA***

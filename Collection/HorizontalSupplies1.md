@@ -8,10 +8,10 @@ header:
 article_header:
   type: overlay
   align: center
-  theme: light
+  theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-BoatSupplies1.jpeg
+    src: /assets/images/Headers/HI-BoatSupplies1.jpeg
 ---
 
 ***SAMPLING SUPPLIES***

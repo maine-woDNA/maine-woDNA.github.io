@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-CollectedWater1.jpeg
+    src: /assets/images/Headers/HI-CollectedWater1.jpeg
 ---
 
 **THIS PAGE WILL HAVE INFORMATION ON ANALYSIS of HORIZONTAL qPCR SAMPLES**

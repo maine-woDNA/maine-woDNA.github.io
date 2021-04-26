@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-Boat3.jpeg
+    src: /assets/images/Headers/HI-Boat3.jpeg
 ---
 
 **Nicely done!**
