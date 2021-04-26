@@ -11,7 +11,7 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-BoatView1.jpeg
+    src: /assets/images/HI/HI-FerryView8.jpeg
   actions:
     - text: What is eDNA?
       type: secondary
