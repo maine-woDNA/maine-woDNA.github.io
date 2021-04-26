@@ -14,11 +14,15 @@ Environmental DNA (eDNA) is DNA collected from the environment, such as water or
 
 ## Steps to conduct an eDNA experiment
 
-![eDNASteps](/assets/images/eDNASteps.jpg)
+![eDNASteps2](/assets/images/eDNASteps2.jpg)
 
 ### Collection
 
 We talk about collecting edna!
+
+### Filtering
+
+We talk about filtering!
 
 ### Extraction
 
@@ -28,6 +32,6 @@ We talk about extraction!
 
 We talk about amplification! for qPCR or metagenomics
 
-### Analysis
+### Sequencing & Analysis
 
 We talk about the analysis of qPCR or sequencing data!
