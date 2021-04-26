@@ -11,11 +11,11 @@ article_header:
   theme: dark
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/Headers/FilterRig5.jpeg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO FILTER PROPERLY**
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="VerticalStoring1">GO BACK AND TRY AGAIN</a> ></p>
+<a class="button button--outline-primary button--pill" href="VerticalStoring1">GO BACK AND TRY AGAIN</a></p>
