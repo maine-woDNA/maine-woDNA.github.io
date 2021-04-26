@@ -11,7 +11,7 @@ article_header:
   theme: light
   mode: immersive
   background_image:
-    src: /assets/images/HI/HI-Supplies1.jpeg
+    src: /assets/images/HI/HISupplies1.jpeg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER COLLECTION SUPPLIES**
