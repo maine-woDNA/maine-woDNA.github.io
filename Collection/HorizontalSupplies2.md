@@ -8,10 +8,10 @@ header:
 article_header:
   type: overlay
   align: center
-  theme: dark
+  theme: light
   mode: immersive
   background_image:
-    src: /assets/images/SampleBackground2.jpg
+    src: /assets/images/HI/HI-Supplies1.jpeg
 ---
 
 **THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER COLLECTION SUPPLIES**
