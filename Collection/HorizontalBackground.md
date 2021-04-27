@@ -85,6 +85,6 @@ Time to check your knowledge! Based on our experimental design, how many total h
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">C</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER C</a></p>
 
 
