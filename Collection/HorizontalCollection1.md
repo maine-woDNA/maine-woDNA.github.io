@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Horizontal Collection
-excerpt: TYPE EXCERPT HERE
+excerpt: Collecting Our Water Samples
 mode: immersive
 header:
   theme: dark

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: COLLECTION STORAGE - HORIZONTAL
-excerpt: TYPE EXCERPT HERE
+excerpt: Safely Storing Our Samples
 mode: immersive
 header:
   theme: dark

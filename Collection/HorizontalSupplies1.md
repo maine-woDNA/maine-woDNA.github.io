@@ -1,7 +1,7 @@
 ---
 layout: article
 title: HORIZONTAL COLLECTION SUPPLIES
-excerpt: TYPE EXCERPT HERE
+excerpt: Preparing for the Field
 mode: immersive
 header:
   theme: dark
