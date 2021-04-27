@@ -14,9 +14,15 @@ article_header:
     src: /assets/images/Headers/HI-CollectedWater1.jpeg
 ---
 
-**THIS PAGE WILL HAVE INFORMATION ON ANALYSIS of HORIZONTAL qPCR SAMPLES**
+
 (coming from collection)
 
+
+
+
+***We then cruised on back to the lab with our samples!***
+
+![HI-BoatTrail1](/assets/images/HI/HI-BoatTrail1.JPG)   
 
 
 ***CHECK YOUR KNOWLEDGE***

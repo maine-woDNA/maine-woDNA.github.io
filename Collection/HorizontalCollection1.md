@@ -76,18 +76,14 @@ Finally, we triggered the release mechanism by sending the weight, or messenger,
 
 
 
-
-
-***Step 6: Logging Data & Taking Notes***
+***Step 5: Logging Data & Taking Notes***
 
 Each step of the way we kept track of our progress and made sure to take notes on anything that might be important for our later analysis. 
 
+*Marking things down in the field log:*    
+![HI-Niskin1](/assets/images/HI/HI-DataLogging1.jpeg)
 
 
-
-***We then cruised on back to the lab with our samples!***
-
-![HI-BoatTrail1](/assets/images/HI/HI-BoatTrail1.JPG)   
 
 
 ***CHECK YOUR KNOWLEDGE***
