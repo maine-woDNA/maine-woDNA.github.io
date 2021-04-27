@@ -1,7 +1,7 @@
 ---
 layout: article
 title: FILTERING BACKGROUND
-excerpt: TYPE EXCERPT HERE
+excerpt: Filtering eDNA Water Samples
 mode: immersive
 header:
   theme: dark
@@ -15,6 +15,12 @@ article_header:
 ---
 
 **THIS PAGE WILL HAVE BACKGROUND INFORMATION ON FILTERING**
+
+*We arrived with our samples at Bigelow:*
+![Bigelow1](/assets/images/BIG-FILT/Bigelow1.jpeg) 
+
+*A typical filtering set-up:*
+![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
 
 
 <p align="center">
