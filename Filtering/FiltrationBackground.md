@@ -1,7 +1,7 @@
 ---
 layout: article
 title: FILTERING BACKGROUND
-excerpt: Filtering eDNA Water Samples
+excerpt: Let's Learn About Filtering eDNA Water Samples
 mode: immersive
 header:
   theme: dark

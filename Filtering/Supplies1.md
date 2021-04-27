@@ -1,7 +1,7 @@
 ---
 layout: article
 title: FILTERING SUPPLIES
-excerpt: TYPE EXCERPT HERE
+excerpt: Getting Our Materials Ready
 mode: immersive
 header:
   theme: dark
@@ -15,6 +15,12 @@ article_header:
 ---
 
 **THIS PAGE WILL HAVE INFORMATION ON FILTERING SUPPLIES**
+
+*A typical filtering set-up:*
+![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
+
+*Clean forceps ready to use:*
+![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg) 
 
 
 <p align="center">
