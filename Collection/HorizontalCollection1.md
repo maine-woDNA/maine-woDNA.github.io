@@ -21,7 +21,7 @@ Once we had all of our supplies together we were ready to go!
 
 **Getting to Our Site**  
 
-We then got on Captain Jason's boat and cruised on over to Hurricane Island. We located our sampling site at Hurricane's aquaculture aread and got right to work. 
+We then got on Captain Jason's boat and cruised on over to Hurricane Island. We located our sampling site at Hurricane's aquaculture area and got right to work. 
 
 
 *Navigating to our site*
