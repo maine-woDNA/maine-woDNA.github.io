@@ -32,7 +32,7 @@ We then got on Captain Jason's boat and cruised on over to Hurricane Island. We 
 
 **Using a Niskin to Collect eDNA Water Samples**
 
-We used Niskins to collect our horizontal water samples at the scallop sea farm site. To do this, we followed a collection protocol made up of the following steps: 
+We used Niskins to collect our horizontal water samples at the scallop aquaculture site. To do this, we followed a collection protocol made up of the following steps: 
 
 ***Step 1: Cleaning the Niskin***    
 

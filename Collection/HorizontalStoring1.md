@@ -16,7 +16,7 @@ article_header:
 
 **Time to haul in the Niskin!**
 
-Once we knew that the messenger had triggered the release mechanism and that the stoppers of the Niskin were completely shut, we hauled the Niskin back up onto the boat. Once onboard, we we collect 1 liter of water for our sample. 
+Once we knew that the messenger had triggered the release mechanism and that the stoppers of the Niskin were completely shut, we hauled the Niskin back up onto the boat. Once onboard, we collected 1 liter of water for our sample. 
 
 
 ***Filling the Sample Bottles***
