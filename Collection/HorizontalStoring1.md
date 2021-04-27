@@ -14,39 +14,55 @@ article_header:
     src: /assets/images/Headers/HI-CollectedWater1.jpeg
 ---
 
-**Now it's time to pulll up your Niskin!**
+**Time to haul in the Niskin!**
+
+Once we knew that the messenger had triggered the release mechanism and that the stoppers of the Niskin were completely shut, we hauled the Niskin back up onto the boat. Once onboard, we we collect 1 liter of water for our sample. 
 
 
 ***Filling the Sample Bottles***
 
+Before filled the sample bottles we rinsed the bottle and its lid three times with water from the Niskin, to make sure that the bottle was clear of any contaminates or leftover cleaners. 
 
-![HI-BoatTrail1](/assets/images/HI/HI-BottleFilling2.jpeg)  
+We then dispensed 1 liter of water from the 5 liter Niskin into our sample bottle. Once filled, we then sealed the bottle tightly with the cap.
 
-![HI-BoatTrail1](/assets/images/HI/HI-BottleFilling3.jpeg) 
 
-*A 1L sample all ready to go*
-![HI-BoatTrail1](/assets/images/HI/HI-CollectedWater1.jpeg)  
+*Dispensing the sample water*
+![HI-BottleFilling2](/assets/images/HI/HI-BottleFilling2.jpeg)  
+
+*Filled our bottles*
+![HI-BottleFilling3](/assets/images/HI/HI-BottleFilling3.jpeg) 
+
+*A 1L sample all ready to go:*
+![HI-CollectedWater1](/assets/images/HI/HI-CollectedWater1.jpeg)  
+
 
 
 ***Safely Storing the Samples***
 
+Finally, we placed each sample bottle into the cooler with ice to safely store and transport the samples back to the lab.
+
+*Samples safely stowed in the cooler:*
+![HI-CoolerHandoff1](/assets/images/HI/HI-CoolerHandoff1.jpeg)  
 
 
 
 ***We then cruised on back to the lab with our samples!***
 
+
 ![HI-BoatTrail1](/assets/images/HI/HI-BoatTrail1.JPG)   
+
+
 
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! ...?
+Time to check your knowledge! When we collect eDNA samples in the field how can we store them properly before getting back to the lab?
 
-**A.** On ice
+**A.** On ice in a cooler.
 
-**B.** Away from light in a plastic tote    
+**B.** Away from light in a plastic tote.    
 
 **C.** Oops I forgot ice!
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER C</a></p>
