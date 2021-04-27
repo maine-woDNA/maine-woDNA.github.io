@@ -59,6 +59,9 @@ We also needed something to store our samples in! For this, we used clean, 1 L s
 ![HI-Labeling3](/assets/images/HI/HI-Labeling3.jpeg)  
 
 
+**Water for Controls** 
+
+We also needed water to use for our controls to test for contamination in our sampling process. Be brought along a big container of tap water to do the job.
 
 **Coolers with Ice** 
 
@@ -78,11 +81,11 @@ Finally, we needed a way to keep our water samples cool and away from light on t
 
 Time to check your knowledge! Before I leave for my sampling I need to make sure I have which things?
 
-**A.** Niskin, line, cleaning supplies, pre-labeled sampling bottles, cooler and ice
+**A.** Niskin, line, cleaning supplies, water for controls, pre-labeled sampling bottles, cooler and ice
 
 **B.** Niskin, line, cleaning supplies, cooler and ice, lots of snacks   
 
-**C.** Niskin, line, cleaning supplies
+**C.** Niskin, line, cleaning supplies, water for controls, a funny hat
 
 
 <p align="center">
