@@ -14,8 +14,21 @@ article_header:
     src: /assets/images/Headers/HI-CollectedWater1.jpeg
 ---
 
+**Now it's time to pulll up your Niskin!**
 
-(coming from collection)
+
+***Filling the Sample Bottles***
+
+
+![HI-BoatTrail1](/assets/images/HI/HI-BottleFilling2.jpeg)  
+
+![HI-BoatTrail1](/assets/images/HI/HI-BottleFilling3.jpeg) 
+
+*A 1L sample all ready to go*
+![HI-BoatTrail1](/assets/images/HI/HI-CollectedWater1.jpeg)  
+
+
+***Safely Storing the Samples***
 
 
 
