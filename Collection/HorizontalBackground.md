@@ -75,7 +75,7 @@ With this sampling design in hand, we were ready to move onto the next step of o
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! Based on our experimental design, how many total horizontal samples will be collect?
+Time to check your knowledge! Based on our experimental design, how many total horizontal samples will we collect?
 
 **A.** 16 samples and 2 controls.
 
