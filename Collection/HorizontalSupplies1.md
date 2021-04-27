@@ -85,6 +85,6 @@ Time to check your knowledge! Before I leave for my sampling I need to make sure
 **C.** Niskin, line, cleaning supplies
 
 
-
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalCollection1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalCollection2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalCollection2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">C</a></p>
+

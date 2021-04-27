@@ -83,7 +83,8 @@ Time to check your knowledge! Based on our experimental design, how many total h
 
 **C.** 8 samples and 8 controls. 
 
+
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">C</a></p>
 
 
