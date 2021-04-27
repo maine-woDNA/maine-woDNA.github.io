@@ -19,6 +19,14 @@ article_header:
 Once we had all of our supplies together we were ready to go!
 
 
+**Getting to Our Site**  
+
+ADD TEXT
+
+![HI-BoatPlanning2](/assets/images/HI/HI-BoatPlanning2.jpeg)   
+
+
+![HI-BoatTrail1](/assets/images/HI/HI-BoatTrail1.JPG)   
 
 
 
