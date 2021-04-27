@@ -89,5 +89,5 @@ Time to check your knowledge! Before I leave for my sampling I need to make sure
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalCollection1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalCollection2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalCollection2">ANSWER C</a></p>
 
