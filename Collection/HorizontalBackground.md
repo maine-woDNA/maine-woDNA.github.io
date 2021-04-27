@@ -14,6 +14,7 @@ article_header:
     src: /assets/images/Headers/HI-BoatDockView.jpeg
 ---
 
+
 ***Using Horizontal Sampling Collection to Learn About Farmed Scallop eDNA***
 
 **eDNA From Scallop Sea Farms**
@@ -66,6 +67,9 @@ With this sampling design in hand, we were ready to move onto the next step of o
 
 
 ***Now that we had our plan we were ready to start collecting the supplies we would need in the field!***    
+
+
+
 
 
 
