@@ -21,7 +21,7 @@ Once we knew that the messenger had triggered the release mechanism and that the
 
 ***Filling the Sample Bottles***
 
-Before filled the sample bottles we rinsed the bottle and its lid three times with water from the Niskin, to make sure that the bottle was clear of any contaminates or leftover cleaners. 
+Before we filled our samples, we rinsed the bottle and its lid three times with water from the Niskin to make sure that the bottle was clear of any contaminates or leftover cleaners. 
 
 We then dispensed 1 liter of water from the 5 liter Niskin into our sample bottle. Once filled, we then sealed the bottle tightly with the cap.
 
