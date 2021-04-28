@@ -23,11 +23,12 @@ In order to capture eDNA from water samples, the water must be passed through a 
 ![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
 
 
+
+
+
+
 **We chose to filter at the lab and made the trip back to Bigelow!**
 
-
-
-*We arrived with our samples at Bigelow:*
 ![Bigelow1](/assets/images/BIG-FILT/Bigelow1.jpeg) 
 
 
