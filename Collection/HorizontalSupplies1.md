@@ -85,7 +85,7 @@ Time to check your knowledge! Before I leave for my sampling I need to make sure
 
 **B.** Niskin, line, cleaning supplies, cooler and ice, lots of snacks.   
 
-**C.** Niskin, line, cleaning supplies, water for controls, a funny hat.
+**C.** Niskin, line, cleaning supplies, water for controls, a fun hat.
 
 
 <p align="center">
