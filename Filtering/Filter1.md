@@ -32,7 +32,7 @@ We first retrieved our water samples from storage.
 We then checked our vacuum filtration rig to see if everything was properly set up and that we had all the supplies we would need. 
 
 *Our clean filtering rig:*
-![FilterRig1](/assets/images/BIG-FILT/FilterRig1.jpeg) 
+![FilterRig1](/assets/images/BIG-FILT/FilterRig1.jpeg)       
 
 
 
@@ -41,22 +41,22 @@ We then checked our vacuum filtration rig to see if everything was properly set 
 Next, we measured out our water samples so that we knew that we were filtering 1 L per sample. 
 
 *Measuring out the water samples--almost to 1 L!:*
-![Filtering6](/assets/images/BIG-FILT/Filtering6.jpeg) 
+![Filtering6](/assets/images/BIG-FILT/Filtering6.jpeg)       
 
 
 
 ***Step 4: Place Filters*** 
 
-Then we place our filters on the filtering rig. We use .22 μm Supor filters installed in 47 mm, in-line filter holders (Pall Laboratory). 
+Then we placed our filters on the filtering rig. We use .22 μm Supor filters installed in 47 mm, in-line filter holders (Pall Laboratory). 
 
 *Placing the filters on the rig:*
-![Filtering4](/assets/images/BIG-FILT/Filtering4.jpeg)  
+![Filtering4](/assets/images/BIG-FILT/Filtering4.jpeg)        
 
 
 
 ***Step 5: Add Water*** 
 
-Once the filters we placed and the filtering cups securing put back in place, we filled the cups with our sample water.
+Once the filters we placed and the sample cups securely put back in place, we filled the cups with our water samples.
 
 *Adding the water samples:*
 ![Filtering3](/assets/images/BIG-FILT/Filtering3.jpeg)   
@@ -69,7 +69,9 @@ Finally, we turned the vacuum on and let the filtering begin!
 
 *Filtering in action:*
 ![FilterRig5](/assets/images/BIG-FILT/FilterRig5.jpeg) 
-![FilterRig4](/assets/images/BIG-FILT/FilterRig4.jpeg)  
+![FilterRig4](/assets/images/BIG-FILT/FilterRig4.jpeg)          
+
+
 
 
 
