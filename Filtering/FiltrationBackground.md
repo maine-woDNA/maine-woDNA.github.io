@@ -18,9 +18,9 @@ article_header:
 
 In order to capture eDNA from water samples, the water must be passed through a filter. There are many types of filters that can be used to capture the eDNA particles, and the one you select depends on the size of the particles, the type of sample, and the project budget. 
 
-Water samples can be filtered in the field or can be taken back to the lab for filtration. Filtering equipment usually comes in two types: cartrige filters (a closed filter) and glass fiber-type (either open or disk) filters. Water filterning can either be done manually (think: a hand pump) or mechanically, with a motorized filtration set-up. No matter which route you take, filtration is an essential step to capture eDNA before extraction
+Water samples can be filtered in the field or can be taken back to the lab for filtration. Filtering equipment usually comes in two types: cartrige filters (a closed filter) and glass fiber-type (either open or disk) filters. Water filterning can either be done manually (think: a hand pump) or mechanically or with a motorized vacuum filtration set-up. No matter which route you take, filtration is how we capture eDNA before extraction
 
-*A typical motorized filtering set-up:*
+*A typical vacuum filtering set-up:*
 ![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
 
 
