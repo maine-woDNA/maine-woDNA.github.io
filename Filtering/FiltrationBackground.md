@@ -19,6 +19,11 @@ article_header:
 -many ways to filter water, by hand with mechanical help...
 
 -getting eDNA from water samples
+"Water samples may be filtered on-site or taken back to the laboratory before filtration. There are also
+two types of filtering equipment: cartridge-type (closed) and glass fiber-type (open or disk) filters.
+This section describes the filtration methods using a filter cartridge on-site after sampling (Section 3-
+1) and using a glass fiber filter in a laboratory (Section 3-2). --our option used a pump"
+
 
 *We arrived with our samples at Bigelow:*
 ![Bigelow1](/assets/images/BIG-FILT/Bigelow1.jpeg) 
