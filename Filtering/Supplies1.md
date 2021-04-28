@@ -29,12 +29,12 @@ We used a motorized vacuum pump to filter our samples. The pump helped to pull w
 ![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
 
 
+
 **Forceps**
 
+Clean forcets to help place the filters and remove and store the filters in the vials when the filtering is complete.
+
 *Clean forceps ready to use:*
-
-Clean forcets to help place the filters and remove and store the filters in the vials when the filtering is complete. 
-
 ![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg) 
 
 
@@ -47,6 +47,7 @@ For this study we used 0.22 μm Supor filters.
 **Storage Vials**
 
 Plastic vials with caps were used to safely store our filters.
+
 
 
 ***CLEANING OUR SUPPLIES & WORK STATION***
@@ -67,8 +68,13 @@ We also cleaned all of the supplies that we would be using for filtration, inclu
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge!...
+Time to check your knowledge! When cleaning our lab bench or work station we should...
+
+**A.** Clean with ethanol, 10% bleach, and rinse with Milli-Q water. 
+
+**B.** Clean with 10% bleach and rinse with DI Water. 
+
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Filter1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Filter2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Filter2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="Filter1">ANSWER A 1</a> <a class="button button--outline-primary button--pill" href="Filter2">ANSWER B</a> 
