@@ -14,23 +14,25 @@ article_header:
     src: /assets/images/Headers/FilterRig5.jpeg
 ---
 
-**THIS PAGE WILL HAVE BACKGROUND INFORMATION ON FILTERING**
+**Filtering eDNA Water Samples**
 
--many ways to filter water, by hand with mechanical help...
+In order to capture eDNA from water samples, the water must be passed through a filter. There are many types of filters that can be used to capture the eDNA particles, and the one you select depends on the size of the particles, the type of sample, and the project budget. 
 
--getting eDNA from water samples
-"Water samples may be filtered on-site or taken back to the laboratory before filtration. There are also
-two types of filtering equipment: cartridge-type (closed) and glass fiber-type (open or disk) filters.
-This section describes the filtration methods using a filter cartridge on-site after sampling (Section 3-
-1) and using a glass fiber filter in a laboratory (Section 3-2). --our option used a pump"
+Water samples can be filtered in the field or can be taken back to the lab for filtration. Filtering equipment usually comes in two types: cartrige filters (a closed filter) and glass fiber-type (either open or disk) filters. Water filterning can either be done manually (think: a hand pump) or mechanically, with a motorized filtration set-up. No matter which route you take, filtration is an essential step to capture eDNA before extraction
+
+*A typical motorized filtering set-up:*
+![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
+
+
+**We chose to filter at the lab and made the trip back to Bigelow!**
+
 
 
 *We arrived with our samples at Bigelow:*
 ![Bigelow1](/assets/images/BIG-FILT/Bigelow1.jpeg) 
 
-*A typical filtering set-up:*
-![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
+
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Supplies1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Supplies2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Supplies2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="Supplies1">Got it, let's go filter!</a> 

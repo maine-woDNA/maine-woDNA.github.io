@@ -18,7 +18,7 @@ article_header:
 Prior to eDNA filtration and extraction, all laboratory equipment was cleaned with 10% bleach followed by triplicate rinses of Milli-Q water. The duplicate 1 Liter samples were vacuum filtered through .22 μm Supor filters installed in 47 mm, in-line filter holders (Pall Laboratory). The filters were then rolled and stored in 5mL eppendorf tubes at -20˚C until DNA extraction. DNA was extracted using the DNeasy PowerWater Kit (Qiagen), following the manufacturer’s protocol. DNA yield was quantified using a Qubit fluorometer and the dsDNA High Sensitivity Assay (Invitrogen). 
 
 *Our water samples ready to be filtered:*
-![WaterSamples1](/assets/images/BIG-FILT/WaterSamples1.jpeg) 
+![WaterSamples1](/assets/images/BIG-FILT/WaterSamples1.JPG) 
 
 
 *Our clean filtering rig setup:*
