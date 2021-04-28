@@ -21,48 +21,53 @@ Before we could filter our water samples, we needed a number of supplies.
 Our supply list included:
 
 
-**Our Filtering Rig**
+**Our Filtering Rig**   
 
 We used a motorized vacuum pump to filter our samples. The pump helped to pull water, poured into the rigs sample cups, quickly through the filters. 
 
-*A typical motorized filtering set-up:*
-![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg) 
+*Our filtering set-up:*
+![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg)      
+
 
 
 
 **Forceps**
 
-Clean forcets to help place the filters and remove and store the filters in the vials when the filtering is complete.
+Clean forceps to help place the filters and remove and store the filters in the vials when the filtering is complete.
 
 *Clean forceps ready to use:*
-![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg) 
+![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg)      
+
 
 
 
 **Filters**
 
-For this study we used 0.22 μm Supor filters.
+For this study we used 0.22 μm Supor filters.     
+
 
 
 **Storage Vials**
 
-Plastic vials with caps were used to safely store our filters.
+Plastic vials with caps were used to safely store our filters.                    
 
 
 
-***CLEANING OUR SUPPLIES & WORK STATION***
+
+
+***CLEANING OUR SUPPLIES & WORK STATION***   
 
 With any DNA labwork it is essential that your lab bench or work station is clean. To do this sprayed the surface first with 96% ethanol, a 10% bleach solution, followed by a rinse of Milli-Q water. (Rene is this correct?)
 
 We also cleaned all of the supplies that we would be using for filtration, including the cups for the filtering rig, the filter bases, and our forceps. We cleaned these supplies with a 10% bleach solution followed by rinsing three times with Milli-Q water.
 
-*Cleaning our supplies:*
+*Cleaning our supplies:*   
 ![Cleaning1](/assets/images/BIG-FILT/Cleaning1.jpeg) 
 
 *Cleaning our work station:*
 ![Cleaning2](/assets/images/BIG-FILT/Cleaning2.jpeg) 
 
-![Cleaning3](/assets/images/BIG-FILT/Cleaning3.jpeg) 
+![Cleaning3](/assets/images/BIG-FILT/Cleaning3.jpeg)    
 
 
 
