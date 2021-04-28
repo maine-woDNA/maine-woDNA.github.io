@@ -16,6 +16,10 @@ article_header:
 
 **THIS PAGE WILL HAVE BACKGROUND INFORMATION ON FILTERING**
 
+-many ways to filter water, by hand with mechanical help...
+
+-getting eDNA from water samples
+
 *We arrived with our samples at Bigelow:*
 ![Bigelow1](/assets/images/BIG-FILT/Bigelow1.jpeg) 
 
