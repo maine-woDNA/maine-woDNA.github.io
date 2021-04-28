@@ -62,7 +62,7 @@ With any DNA labwork it is essential that your lab bench or work station is clea
 We also cleaned all of the supplies that we would be using for filtration, including the cups for the filtering rig, the filter bases, and our forceps. We cleaned these supplies with a 10% bleach solution followed by rinsing three times with Milli-Q water.
 
 *Cleaning our supplies:*   
-![Cleaning1](/assets/images/BIG-FILT/Cleaning1.jpeg) 
+![Cleaning1](/assets/images/BIG-FILT/Cleaning1.JPG) 
 
 *Cleaning our work station:*
 ![Cleaning2](/assets/images/BIG-FILT/Cleaning2.jpeg) 
