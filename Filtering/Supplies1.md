@@ -67,7 +67,10 @@ We also cleaned all of the supplies that we would be using for filtration, inclu
 *Cleaning our work station:*
 ![Cleaning2](/assets/images/BIG-FILT/Cleaning2.jpeg) 
 
-![Cleaning3](/assets/images/BIG-FILT/Cleaning3.jpeg)    
+![Cleaning3](/assets/images/BIG-FILT/Cleaning3.jpeg)            
+
+
+
 
 
 
@@ -82,4 +85,4 @@ Time to check your knowledge! When cleaning our lab bench or work station we sho
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Filter1">ANSWER A 1</a> <a class="button button--outline-primary button--pill" href="Filter2">ANSWER B</a> 
+<a class="button button--outline-primary button--pill" href="Filter1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Filter2">ANSWER B</a> 
