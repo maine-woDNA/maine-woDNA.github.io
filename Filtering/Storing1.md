@@ -16,6 +16,9 @@ article_header:
 
 **THIS PAGE WILL HAVE INFORMATION ON STORING FILTERED SAMPLES**
 
+ The duplicate 1 Liter samples were vacuum filtered through .The filters were then rolled and stored in 5mL eppendorf tubes at -20˚C until DNA extraction. DNA was extracted using the DNeasy PowerWater Kit (Qiagen), following the manufacturer’s protocol. DNA yield was quantified using a Qubit fluorometer and the dsDNA High Sensitivity Assay (Invitrogen). 
+
+
 *Labeling beforehand:*
 ![Labeling1](/assets/images/BIG-FILT/Labeling1.jpeg) 
 

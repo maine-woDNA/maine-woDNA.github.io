@@ -17,33 +17,73 @@ article_header:
 
 Once we had our lab bench clean and supplies ready to go, we could begin filtering. To do this, we followed a filtration protocol made up of the following steps: 
 
-Prior to eDNA filtration and extraction, all laboratory equipment was cleaned with 10% bleach followed by triplicate rinses of Milli-Q water. The duplicate 1 Liter samples were vacuum filtered through .22 μm Supor filters installed in 47 mm, in-line filter holders (Pall Laboratory). The filters were then rolled and stored in 5mL eppendorf tubes at -20˚C until DNA extraction. DNA was extracted using the DNeasy PowerWater Kit (Qiagen), following the manufacturer’s protocol. DNA yield was quantified using a Qubit fluorometer and the dsDNA High Sensitivity Assay (Invitrogen). 
 
-***Step 1: Retrieve Our Water Samples***    
+***Step 1: Retrieve Water Samples***    
 
+We first retrieved our water samples from storage.
 
 *Our water samples ready to be filtered:*
 ![WaterSamples1](/assets/images/BIG-FILT/WaterSamples1.JPG) 
 
 
-*Our clean filtering rig setup:*
+
+***Step 2: Check Filtration Rig*** 
+
+We then checked our vacuum filtration rig to see if everything was properly set up and that we had all the supplies we would need. 
+
+*Our clean filtering rig:*
 ![FilterRig1](/assets/images/BIG-FILT/FilterRig1.jpeg) 
 
-*Measuring the water samples:*
+
+
+***Step 3: Measure Water Samples*** 
+
+Next, we measured out our water samples so that we knew that we were filtering 1 L per sample. 
+
+*Measuring out the water samples--almost to 1 L!:*
 ![Filtering6](/assets/images/BIG-FILT/Filtering6.jpeg) 
 
+
+
+***Step 4: Place Filters*** 
+
+Then we place our filters on the filtering rig. We use .22 μm Supor filters installed in 47 mm, in-line filter holders (Pall Laboratory). 
 
 *Placing the filters on the rig:*
 ![Filtering4](/assets/images/BIG-FILT/Filtering4.jpeg)  
 
+
+
+***Step 5: Add Water*** 
+
+Once the filters we placed and the filtering cups securing put back in place, we filled the cups with our sample water.
+
 *Adding the water samples:*
 ![Filtering3](/assets/images/BIG-FILT/Filtering3.jpeg)   
+
+
+
+***Step 6: Adding Water*** 
+
+Finally, we turned the vacuum on and let the filtering begin!
 
 *Filtering in action:*
 ![FilterRig5](/assets/images/BIG-FILT/FilterRig5.jpeg) 
 ![FilterRig4](/assets/images/BIG-FILT/FilterRig4.jpeg)  
 
+
+
+***CHECK YOUR KNOWLEDGE***
+
+Time to check your knowledge! Why do we need to measure out the sample water before we filter, rather than just pouring directly from the bottles?
+
+**A.** So that we know we are filtering a uniform amount for each sample. 
+
+**B.** To avoid contamination from the outside of our sample bottles. 
+
+**C.** We didn't measure the water--pouring directly from the sample bottles is faster.
+
  
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Storing1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="Storing2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="Storing2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="Storing1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Storing2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="Storing2">ANSWER C</a></p>
