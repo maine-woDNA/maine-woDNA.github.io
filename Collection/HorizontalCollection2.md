@@ -1,7 +1,7 @@
 ---
 layout: article
 title: HORIZONTAL Collection - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
