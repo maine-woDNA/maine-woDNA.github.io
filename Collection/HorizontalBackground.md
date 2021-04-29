@@ -55,7 +55,7 @@ With this information, we could carefully design our experiment so that we are s
 
 Because the scallop racks at Hurricane Island were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved horizontally away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 Section B below. 
 
-At the aquaculture site, horizontal water samples would be taken at exponentially greater distances starting at the racks. Our first sample would be collected at 1 m followed by 2 m, 4 m, 16 m, 32 m, 64 m, 128 m, and 256 m meters from the net (Figure 2). At each distance water samples would be collected in duplicate. 
+At the aquaculture site, horizontal water samples would be taken at exponentially greater distances starting at the racks. Our first sample would be collected at 1 m followed by 2 m, 4 m, 16 m, 32 m, 64 m, 128 m, and 256 m from the net (Figure 2). At each distance water samples would be collected in duplicate. 
 
 Two negative controls would be collected at the site after completing sampling to test for contamination.
 
