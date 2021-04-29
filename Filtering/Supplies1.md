@@ -33,7 +33,7 @@ We used a motorized vacuum pump to filter our samples. The pump helped to pull w
 
 **Forceps**
 
-Clean forceps to help place the filters and remove and store the filters in the vials when the filtering is complete.
+Clean forceps to help place the filters and remove and store the filters in the tubes when the filtering is complete.
 
 *Clean forceps ready to use:*
 ![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg)      
@@ -47,9 +47,9 @@ For this study we used 0.22 μm Supor filters.
 
 
 
-**Storage Vials**
+**Storage Tubes**
 
-Plastic vials with caps were used to safely store our filters.                    
+Plastic 5 mL tubes with caps were used to safely store our filters.                    
 
 
 

@@ -14,22 +14,53 @@ article_header:
     src: /assets/images/Headers/Samples1.jpeg
 ---
 
-**THIS PAGE WILL HAVE INFORMATION ON STORING FILTERED SAMPLES**
+**Storing Our Filters**
+ 
+Once the filtering was complete, we performed the following steps to store the filters:
+ 
+ 
+ **STEP 1: Label Tubes**
+ 
+Before filtration, we pre-labeled our storage tubess. We used 5mL eppendorf tubes.        
+ 
+ *Labeling tubes beforehand:*
+![Labeling1](/assets/images/BIG-FILT/Labeling1.jpeg)       
 
- The duplicate 1 Liter samples were vacuum filtered through .The filters were then rolled and stored in 5mL eppendorf tubes at -20˚C until DNA extraction. DNA was extracted using the DNeasy PowerWater Kit (Qiagen), following the manufacturer’s protocol. DNA yield was quantified using a Qubit fluorometer and the dsDNA High Sensitivity Assay (Invitrogen). 
+
+ 
+ **STEP 2: Remove Filters**
+ 
+Using two clean forceps, we removed the filter and folded it up into a loose roll. It helps to leave the filter on the filter stand as you roll. 
 
 
-*Labeling beforehand:*
-![Labeling1](/assets/images/BIG-FILT/Labeling1.jpeg) 
-
-*Removing & storing finished filters:*
-![Group2](/assets/images/BIG-FILT/Group2.jpeg)  
-
-*A complete filter:*
+*A complete filter:*      
 ![Filtering5](/assets/images/BIG-FILT/Filtering5.jpeg)   
 
-*Our samples safely filtered & stored:*
-![Samples1](/assets/images/BIG-FILT/Samples1.jpeg)  
+*Removing & storing finished filters:*     
+![Group2](/assets/images/BIG-FILT/Group2.jpeg)  
+
+
+
+**STEP 3: Store Tubes**
+
+We then placed the rolled filters into the tubes and closed the lids. We placed the tubes on a rack and put them in a -20˚C freezer until DNA extraction.   
+
+
+*Our samples ready to be stored in the freezer:*
+![Samples1](/assets/images/BIG-FILT/Samples1.jpeg)      
+
+
+
+***CHECK YOUR KNOWLEDGE***
+
+Time to check your knowledge! How did we properly store the finished fitlers?
+
+**A.** Folded and in tubes in a -20˚C freezer.
+
+**B.** Folded and in tubes in a -10˚C freezer.
+
+**C.** Folded and in tubes at room temperature.
+
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Extraction/ExtractionBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="ExtractionBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="ExtractionBackground2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Extraction/ExtractionBackground">ANSWER A</a> <a class="button button--outline-primary button--pill" href="ExtractionBackground2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="ExtractionBackground2">ANSWER C</a></p>
