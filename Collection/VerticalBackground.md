@@ -16,18 +16,18 @@ article_header:
 
 ***Using Vertical Sampling Collection to Learn About Wild Scallop eDNA***
 
-**eDNA Wild Scallop Beds**
+**eDNA From Wild Scallop Beds**
 
 For this portion of the study we started with the question: How does eDNA disperse from wild scallop beds? 
 
-Unlike aquaculture scallop populations that are suspended in cages or lantern nets, wild scallop populations live on the sea floor. 
+Unlike aquaculture scallop populations that are suspended in cages or lantern nets, wild scallop populations live on the sea floor. As a result, how we sample for aquaculture scallops will be different than how we sample for wild scallops.
 
 
-*An adult sea scallop. Photo source: Dvora Hart/NOAA Fisheries Science Center*    
+*An adult wild sea scallop. Photo source: Dvora Hart/NOAA Fisheries Science Center*    
 ![Scallop1](/assets/images/Scallop1.jpeg)      
 
 
-*Scallops on the sea floor. Photo source: NOAA Fisheries Science Center*    
+*Wild scallops on the sea floor. Photo source: NOAA Fisheries Science Center*    
 ![Scallop2](/assets/images/Scallop2.jpeg)  
 
 
@@ -54,7 +54,7 @@ With this information, we could carefully design our experiment so that we are s
 
 Because the wild scallop bed at Hurricane Island were on the ocean floor, we wanted to see how scallop eDNA dispersed in the water as you moved vertically away from the beds. To do this, we designed a vertical sampling scheme that you can see in Figure 2 Section A below. 
 
-At the wild scallop bed, vertical water samples would be taken at uniform distances starting above the bed. We chose to sample every 3 meters. Our first sample would be collected at 20 m followed by 17 m, 14 m, 11 m, 8 m, 5 m, 2m, and 0.1 m, basically at the surface (Figure 2). At each distance water samples would be collected in duplicate. 
+At the wild scallop bed, vertical water samples would be taken at uniform distances starting above the bed. We chose to sample every 3 meters. Our first sample would be collected at 20 m followed by 17 m, 14 m, 11 m, 8 m, 5 m, 2m, and 0.1 m, essentially at the surface (Figure 2). Water samples would be collected in duplicate for each depth. 
 
 Two negative controls would be collected at the site after completing sampling to test for contamination.
 
