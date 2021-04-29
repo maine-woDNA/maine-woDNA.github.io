@@ -23,9 +23,12 @@ For this portion of the study we started with the question: How does eDNA disper
 Unlike aquaculture scallop populations that are suspended in cages or lantern nets, wild scallop populations live on the sea floor. 
 
 
-*Scallops*    
-![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)         
+*An adult sea scallop. Photo source: Dvora Hart/NOAA Fisheries Science Center*    
+![Scallop1](/assets/images/Scallop1.jpeg)      
 
+
+*Scallops on the sea floor. Photo source: NOAA Fisheries Science Center*    
+![Scallop2](/assets/images/Scallop2.jpeg)  
 
 
 
