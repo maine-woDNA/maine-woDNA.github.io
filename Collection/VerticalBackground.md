@@ -43,6 +43,7 @@ eDNA approaches may help to disentangle where and how many larvae will disperse.
 With this information, we could carefully design our experiment so that we are sampling at the right depth and right distance to understand scallop stocks. Improving eDNA scallop sampling techniques will not only help us understand scallop recruitment, larvae, and adult populations, but will also support including eDNA methods as a tool for fisheries managment. 
 
 
+*Scallops on the boat deck:*   
 ![HI-Scallops2](/assets/images/HI/HI-Scallops2.jpeg)  
 
 
