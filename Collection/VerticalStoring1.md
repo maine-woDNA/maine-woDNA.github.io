@@ -66,4 +66,4 @@ Time to check your knowledge! When we collect eDNA samples in the field how can 
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="VerticalFilteringBackground2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="VerticalFilteringBackground2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">ANSWER A</a> <a class="button button--outline-primary button--pill" href="VerticalFilteringBackground2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="VerticalFilteringBackground2">ANSWER C</a></p>
