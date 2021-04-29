@@ -23,7 +23,7 @@ Our supply list included:
 
 **Our Filtering Rig**   
 
-We used a motorized vacuum pump to filter our samples. The pump helped to pull water, poured into the rigs sample cups, quickly through the filters. 
+We used a motorized vacuum pump to filter our samples. The pump helped to pull water, poured into the sample cups, quickly through the filters. 
 
 *Our filtering set-up:*
 ![FilterRig2](/assets/images/BIG-FILT/FilterRig2.jpeg)      
@@ -33,7 +33,7 @@ We used a motorized vacuum pump to filter our samples. The pump helped to pull w
 
 **Forceps**
 
-Clean forceps to help place the filters and remove and store the filters in the tubes when the filtering is complete.
+Clean forceps to help place the filters and remove and store the filters in the tubes when the filtering was complete.
 
 *Clean forceps ready to use:*
 ![Forceps1](/assets/images/BIG-FILT/Forceps1.jpeg)      
@@ -57,9 +57,10 @@ Plastic 5 mL tubes with caps were used to safely store our filters.
 
 ***CLEANING OUR SUPPLIES & WORK STATION***   
 
-With any DNA labwork it is essential that your lab bench or work station is clean. To do this sprayed the surface first with 96% ethanol, a 10% bleach solution, followed by a rinse of Milli-Q water. (Rene is this correct?)
+With any DNA labwork it is essential that your lab bench or work station is clean. To do this sprayed the surface first with 96% ethanol, a 10% bleach solution, followed by a rinse of Milli-Q water. 
 
-We also cleaned all of the supplies that we would be using for filtration, including the cups for the filtering rig, the filter bases, and our forceps. We cleaned these supplies with a 10% bleach solution followed by rinsing three times with Milli-Q water.
+We also cleaned all of the supplies that we would be using for filtration, including the sample cups for the filtering rig, the filter bases, and the graduated cylinders. We cleaned these supplies with a 10% bleach solution followed by rinsing three times with Milli-Q water.     
+
 
 *Cleaning our supplies:*   
 ![Cleaning1](/assets/images/BIG-FILT/Cleaning1.JPG) 
