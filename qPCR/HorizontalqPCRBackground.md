@@ -1,7 +1,7 @@
 ---
 layout: article
 title: HORIZONTAL qPCR BACKGROUND
-excerpt: TYPE EXCERPT HERE
+excerpt: Learn About qPCR
 mode: immersive
 header:
   theme: dark
@@ -14,8 +14,24 @@ article_header:
     src: /assets/images/Headers/qPCR5.jpg
 ---
 
-**THIS PAGE WILL HAVE BACKGROUND INFORMATION ON HORIZONTAL qPCR**
+**What is qPCR?**
+
+
+
+
+
+***CHECK YOUR KNOWLEDGE***
+
+Time to check your knowledge! ...?
+
+**A.** ...
+
+**B.** ... 
+
+**C.** ...
+
+
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER C</a></p>

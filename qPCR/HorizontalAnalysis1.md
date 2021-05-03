@@ -1,7 +1,7 @@
 ---
 layout: article
 title: qPCR ANALYSIS
-excerpt: TYPE EXCERPT HERE
+excerpt: Analyzing Our Results
 mode: immersive
 header:
   theme: dark
@@ -14,8 +14,12 @@ article_header:
     src: /assets/images/Headers/Results1.jpg
 ---
 
-**THIS PAGE WILL HAVE INFORMATION ON ANALYSIS of HORIZONTAL qPCR SAMPLES**
+**Analyzing Our qPCR Results**
 
+
+
+
+**Great job making it to the end of the experiment!**
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Conclusions">CORRECT BUTTON - TO CONCLUSIONS</a></p>
+<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Conclusions">Let's look at our conclusions!</a></p>
