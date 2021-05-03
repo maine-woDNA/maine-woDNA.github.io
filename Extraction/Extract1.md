@@ -52,11 +52,33 @@ To do the extraction we did the following steps:
 
 
 
-***Step 4: *** 
+***Step 4: ***    
 
 ![Extraction6](/assets/images/BIG-EXT/Extraction6.jpg)    
 
+![Extraction7](/assets/images/BIG-EXT/Extraction7.jpg) 
 
+![Extraction8](/assets/images/BIG-EXT/Extraction8.jpg) 
+
+
+***Step 5: ***    
+
+![Extraction9](/assets/images/BIG-EXT/Extraction9.jpg)    
+
+
+
+***Step 6: ***    
+
+![Extraction12](/assets/images/BIG-EXT/Extraction12.jpg)  
+
+![Extraction13](/assets/images/BIG-EXT/Extraction13.jpg)  
+
+
+***Step 7: ***    
+
+![Centrifuge1](/assets/images/BIG-EXT/Centrifuge1.jpg) **I know this is elsewhere in the process, but I don't remember where!**
+
+![Extraction14](/assets/images/BIG-EXT/Extraction14.jpg)  
 
 
 
