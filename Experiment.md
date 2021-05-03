@@ -29,7 +29,7 @@ Our species of study is the Atlantic sea scallop whose scientific name is Placop
 
 <p align="center">
 <video controls>
-  <source src="/assets/videos/ConvertedSpat2.mp4" type="video/mp4">
+  <source src="/assets/videos/ConvertedSpatSmall.mp4" type="video/mp4">
 </video> </p>
 *credit: Hurricane*
 
@@ -67,7 +67,7 @@ Knowing that adults live on the bottom, we expect that the signal of scallop eDN
 ![AQZones](/assets/images/HI/7 - AQ_Zones map.png)
 *credit: Phoebe Jekielek*
 
-**Which experiment would you like to proceed with?**
+## Which experiment would you like to proceed with?
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="Collection/HorizontalBackground">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="Collection/VerticalBackground">Vertical Distribution from Wild Scallop Beds</a> </p>
