@@ -29,7 +29,7 @@ Our species of study is the Atlantic sea scallop whose scientific name is Placop
 
 <p align="center">
 <video controls>
-  <source src="/assets/videos/ConvertedSpat.mp4" type="video/mp4">
+  <source src="/assets/videos/ConvertedSpat2.mp4" type="video/mp4">
 </video> </p>
 *credit: Hurricane*
 
