@@ -1,7 +1,7 @@
 ---
 layout: article
 title: EXTRACTIONS
-excerpt: TYPE EXCERPT HERE
+excerpt: Extracting Our eDNA
 mode: immersive
 header:
   theme: dark
