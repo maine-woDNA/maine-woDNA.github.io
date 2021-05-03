@@ -1,7 +1,7 @@
 ---
 layout: article
 title: VERTICAL qPCR - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,8 +14,8 @@ article_header:
     src: /assets/images/Headers/qPCR7.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO qPCR PROPERLY**
 
+**Note quite! Review your protocol and try again.**
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="VerticalSupplies1">GO BACK AND TRY AGAIN</a></p>

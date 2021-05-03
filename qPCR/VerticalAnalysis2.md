@@ -1,7 +1,7 @@
 ---
 layout: article
 title: VERTICAL qPCR ANALYSIS - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Results1.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO ANALYZE qPCR PROPERLY**
+**Note quite! Review your results and try again.**
 
 
 <p align="center">

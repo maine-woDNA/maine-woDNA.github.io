@@ -1,7 +1,7 @@
 ---
 layout: article
 title: qPCR HORIZONTAL SUPPLIES - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Samples1D.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER qPCR SUPPLIES**
+**Note quite! Review your supplies list and try again.**
 
 
 <p align="center">
