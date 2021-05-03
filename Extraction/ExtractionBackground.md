@@ -42,4 +42,4 @@ Extraction is the step in which DNA is removed from cells and made accessible fo
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Supplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Supplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="Supplies2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="Supplies1">Got it, let's extract some DNA!</a> 
