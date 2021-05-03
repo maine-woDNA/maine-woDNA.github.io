@@ -31,7 +31,7 @@ Following the DNeasy Powerwater Kit instructions we began the extraction process
 To do the extraction we did the following steps:    
 
 
-***Step 1: ***  
+***Step 1:***  
 
 ![Extraction2](/assets/images/BIG-EXT/Extraction2.jpg)   
 
@@ -40,19 +40,19 @@ To do the extraction we did the following steps:
 
 
 
-***Step 2: ***  
+***Step 2:***  
 
 ![Extraction3](/assets/images/BIG-EXT/Extraction3.jpg)     
 
 
 
-***Step 3: ***  
+***Step 3:***  
 
 ![Extraction5](/assets/images/BIG-EXT/Extraction5.jpg)  
 
 
 
-***Step 4: ***    
+***Step 4:***    
 
 ![Extraction6](/assets/images/BIG-EXT/Extraction6.jpg)    
 
@@ -61,20 +61,20 @@ To do the extraction we did the following steps:
 ![Extraction8](/assets/images/BIG-EXT/Extraction8.jpg) 
 
 
-***Step 5: ***    
+***Step 5:***    
 
 ![Extraction9](/assets/images/BIG-EXT/Extraction9.jpg)    
 
 
 
-***Step 6: ***    
+***Step 6:***    
 
 ![Extraction12](/assets/images/BIG-EXT/Extraction12.jpg)  
 
 ![Extraction13](/assets/images/BIG-EXT/Extraction13.jpg)  
 
 
-***Step 7: ***    
+***Step 7:***    
 
 ![Centrifuge1](/assets/images/BIG-EXT/Centrifuge1.jpg) **I know this is elsewhere in the process, but I don't remember where!**
 
