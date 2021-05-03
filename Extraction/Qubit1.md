@@ -1,7 +1,7 @@
 ---
 layout: article
 title: QUBITTING 
-excerpt: Quibitting Our Samples
+excerpt: Qubitting Our Samples 
 mode: immersive
 header:
   theme: dark
@@ -14,9 +14,9 @@ article_header:
     src: /assets/images/Headers/Samples1C.jpg
 ---
 
-**Quibitting Our eDNA Samples**
+**Qubitting Our eDNA Samples**
 
-Once we had extracted our eDNA, we then had to quibit our samples to quantify our DNA concentrations. 
+Once we had extracted our eDNA, we then had to qubit our samples to quantify our DNA concentrations. 
 
 To do this we followed these steps:
 
@@ -35,61 +35,61 @@ To do this we followed these steps:
 ![Samples1](/assets/images/BIG-QUBIT/Samples1.jpg)    
 
 
-![Quibit1](/assets/images/BIG-QUBIT/Quibit1.jpg)      
+![Qubit1](/assets/images/BIG-QUBIT/Qubit1.jpg)      
 
 
-![Quibit2](/assets/images/BIG-QUBIT/Quibit2.jpg)    
+![Qubit2](/assets/images/BIG-QUBIT/Qubit2.jpg)    
 
 
 
 ***Step 3: Make Quibit Standard***
 
-![Quibit3](/assets/images/BIG-QUBIT/Quibit3.jpg)    
+![Qubit3](/assets/images/BIG-QUBIT/Qubit3.jpg)    
 
 
 
 ***Step 4:***
 
-![Quibit5](/assets/images/BIG-QUBIT/Quibit5.jpg) 
+![Qubit5](/assets/images/BIG-QUBIT/Qubit5.jpg) 
 
 
-![Quibit7](/assets/images/BIG-QUBIT/Quibit7.jpg)    
+![Qubit7](/assets/images/BIG-QUBIT/Qubit7.jpg)    
 
 
 
 ***Step 5: Quibit the Samples***
 
 *Samples ready to go:*
-![Quibit8](/assets/images/BIG-QUBIT/Quibit8.jpg)    
+![Qubit8](/assets/images/BIG-QUBIT/Qubit8.jpg)    
 
 *Quibiting sample:*
-![Quibit9](/assets/images/BIG-QUBIT/Quibit9.jpg)    
+![Qubit9](/assets/images/BIG-QUBIT/Qubit9.jpg)    
 
 
 
 ***Step 6:Reading Quibit Results***
 
 *Sample reading 'too low':*
-![Quibit10](/assets/images/BIG-QUBIT/Quibit10.jpg)    
+![Qubit10](/assets/images/BIG-QUBIT/Qubit10.jpg)    
 
 *A high quibit reading:*  
-![Quibit11](/assets/images/BIG-QUBIT/Quibit11.jpg) 
+![Qubit11](/assets/images/BIG-QUBIT/Qubit11.jpg) 
 
 *An average quibit reading:*
-![Quibit12](/assets/images/BIG-QUBIT/Quibit12.jpg)    
+![Qubit12](/assets/images/BIG-QUBIT/Qubit12.jpg)    
 
 
 
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! What is the standard (is this what it's called Rene?) used for in quibiting?
+Time to check your knowledge! What is the standard (is this what it's called Rene?) used for in qubiting?
 
-**A.** To calibrate the quibit machine.
+**A.** To calibrate the qubit machine.
 
 **B.** To act as a negative control.
 
-**C.** To clean the quibit machine before use. 
+**C.** To clean the qubit machine before use. 
 
 
 <p align="center">
