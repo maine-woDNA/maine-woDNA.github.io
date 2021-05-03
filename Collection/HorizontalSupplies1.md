@@ -79,7 +79,7 @@ Finally, we needed a way to keep our water samples cool and away from light on t
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! Before I leave for my sampling I need to make sure I have which things?
+Time to check your knowledge! Before we leave for sampling we need to make sure we have which things?
 
 **A.** Niskin, line, cleaning supplies, water for controls, pre-labeled sampling bottles, cooler and ice.
 

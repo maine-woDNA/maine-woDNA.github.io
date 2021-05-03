@@ -18,14 +18,25 @@ article_header:
 
 **Extraction Kit**   
 
-For extraction we used a DNeasy PowerWater Kit (from Qiagen). This kit came with all the necessary supplies to perform the extraction.    
+For extraction, we used a DNeasy PowerWater Kit (from Qiagen). This kit came with all the necessary supplies to perform the extraction.    
 
 *DNeasy PowerWater Kit*
 ![ExtractionKit1](/assets/images/BIG-EXT/ExtractionKit1.jpg)  
 
 
 
+**Micropipettes**
+
+We also needed micropipettes and pipette tips to accurately measure and dispense the reagents and samples used in the extraction process. 
+
+*Micropipettes come in different sizes that correspond with the volumes they can measure:*
+![Micropipette1](/assets/images/BIG-EXT/Micropipette1.jpeg)  
+
+
+
 **Labeling Supplies**  
+
+Finally, we need to label our...
 
 ![Labeling1](/assets/images/BIG-EXT/Labeling1.jpg)  
 
@@ -38,13 +49,13 @@ For extraction we used a DNeasy PowerWater Kit (from Qiagen). This kit came with
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! ...?
+Time to check your knowledge! Before we begin extracting we need to make sure we have which things?
 
-**A.** 
+**A.** A complete extraction kit that can process all of your samples, plus micropipettes and tips.
 
-**B.**   
+**B.**  ...
 
-**C.** 
+**C.** ...
 
 
 
