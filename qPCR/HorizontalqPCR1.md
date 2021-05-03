@@ -35,7 +35,7 @@ article_header:
 ![Samples2](/assets/images/BIG-QPCR/Samples2.jpg)     
 
 
-***Step 2: ***
+***Step 2:***
 
 ![qPCR1](/assets/images/BIG-QPCR/qPCR1.jpg)     
 
@@ -43,13 +43,13 @@ article_header:
 
 
 
-***Step 3: ***
+***Step 3:***
 
 ![qPCR4](/assets/images/BIG-QPCR/qPCR4.jpg)   
 
 
 
-***Step 4: Place Sample Plate in qPCR Machine***   
+***Step 4: Place Sample Well Strips in qPCR Machine***   
 
 ![qPCR5](/assets/images/BIG-QPCR/qPCR5.jpg)   
 
