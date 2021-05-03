@@ -22,9 +22,12 @@ article_header:
 **?** Maybe move the PCR prep to the qPCR supplies page? And keep this page for results?
 
 
-**qPCR**
+**qPCR: Preparing Samples for qPCR**   
+...
 
-**Step 1: Retrieve the Samples**
+
+
+***Step 1: Retrieve the Samples***   
 
 
 ![Samples1](/assets/images/BIG-QPCR/Samples1.jpg)  
@@ -32,9 +35,48 @@ article_header:
 ![Samples2](/assets/images/BIG-QPCR/Samples2.jpg)     
 
 
-**Step 2: **
+***Step 2: ***
 
-![Samples2](/assets/images/BIG-QPCR/Samples2.jpg)     
+![qPCR1](/assets/images/BIG-QPCR/qPCR1.jpg)     
+
+![qPCR2](/assets/images/BIG-QPCR/qPCR2.jpg)   
+
+
+
+***Step 3: ***
+
+![qPCR4](/assets/images/BIG-QPCR/qPCR4.jpg)   
+
+
+
+***Step 4: Place Sample Plate in qPCR Machine***   
+
+![qPCR5](/assets/images/BIG-QPCR/qPCR5.jpg)   
+
+![qPCR6](/assets/images/BIG-QPCR/qPCR6.jpg)  
+
+
+
+***Step 5: Close qPCR Machine & Initiate qPCR***   
+
+![qPCR7](/assets/images/BIG-QPCR/qPCR7.jpg)  
+
+
+
+***Step 6: Remove Well Strips Once qPCR is Complete***  
+
+![qPCR8](/assets/images/BIG-QPCR/qPCR8.jpg)        
+
+
+
+
+
+**qPCR: Results**   
+
+![Results1](/assets/images/BIG-QPCR/Results1.jpg)       
+
+![Results2](/assets/images/BIG-QPCR/Results2.jpg)       
+
 
 
 **Choose the sampling scheme you selected at the beginning of the experiment to continue on to the analysis.**
