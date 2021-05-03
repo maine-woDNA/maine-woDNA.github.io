@@ -49,7 +49,7 @@ Scallops are unique among their bivalve counterparts in Maine in that they have 
 
 <p align="center">
 <video controls>
-  <source src="/assets/videos/5 - Deploying_SpatBags.MOV" type="video/mp4">
+  <source src="/assets/videos/SpatBagsSmall.mp4" type="video/mp4">
 </video> </p>
 *credit: National Geographic*
 
@@ -67,7 +67,7 @@ Knowing that adults live on the bottom, we expect that the signal of scallop eDN
 ![AQZones](/assets/images/HI/7 - AQ_Zones map.png)
 *credit: Phoebe Jekielek*
 
-## Which experiment would you like to proceed with?
+### Which experiment would you like to proceed with?
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="Collection/HorizontalBackground">Horizontal Distribution from Lantern Nets</a> <a align="center" class="button button--outline-primary button--pill" href="Collection/VerticalBackground">Vertical Distribution from Wild Scallop Beds</a> </p>
