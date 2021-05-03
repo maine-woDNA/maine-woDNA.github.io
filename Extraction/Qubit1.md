@@ -42,7 +42,7 @@ To do this we followed these steps:
 
 
 
-***Step 3: Make Quibit Standard***
+***Step 3: Make Qubit Standard***
 
 ![Qubit3](/assets/images/BIG-QUBIT/Qubit3.jpg)    
 
@@ -57,7 +57,7 @@ To do this we followed these steps:
 
 
 
-***Step 5: Quibit the Samples***
+***Step 5: Qubit the Samples***
 
 *Samples ready to go:*
 ![Qubit8](/assets/images/BIG-QUBIT/Qubit8.jpg)    
@@ -67,7 +67,7 @@ To do this we followed these steps:
 
 
 
-***Step 6:Reading Quibit Results***
+***Step 6:Reading Qubit Results***
 
 *Sample reading 'too low':*
 ![Qubit10](/assets/images/BIG-QUBIT/Qubit10.jpg)    
