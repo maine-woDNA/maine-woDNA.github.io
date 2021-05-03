@@ -24,7 +24,7 @@ Our species of study is the Atlantic sea scallop whose scientific name is Placop
 </video> </p>
 *credit: Hurricane*
 
-![ScallopAnatomy](/assets/images/HI/2 - scallop-anatomy-chart.jpg)
+![ScallopAnatomy](/assets/images/HI/2 - scallop-anatomny-chart.jpg)
 *credit: www.easternbuyers.com/sales-tools/scallop-anatomy/*
 
 <p align="center">
