@@ -30,7 +30,7 @@ For extraction, we used a DNeasy PowerWater Kit (from Qiagen). This kit came wit
 We also needed micropipettes and pipette tips to accurately measure and dispense the reagents and samples used in the extraction process. 
 
 *Micropipettes come in different sizes that correspond with the volumes they can measure:*
-![Micropipette1](/assets/images/BIG-EXT/Micropipette1.jpeg)  
+![Micropipette1](/assets/images/Micropipette1.jpeg)  
 
 
 
