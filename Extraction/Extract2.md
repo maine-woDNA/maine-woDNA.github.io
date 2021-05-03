@@ -1,7 +1,7 @@
 ---
 layout: article
 title: EXTRACTIONS - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Extraction12.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO EXTRACT PROPERLY**
+**Note quite! Review your protocol and try again.**
 
 
 <p align="center">

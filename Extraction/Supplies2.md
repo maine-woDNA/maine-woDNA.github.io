@@ -1,7 +1,7 @@
 ---
 layout: article
 title: EXTRACTION SUPPLIES - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/ExtractionKit1.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO PROPERLY GATHER EXTRACTION SUPPLIES**
+**Note quite! Review your supplies list and try again.**
 
 
 <p align="center">

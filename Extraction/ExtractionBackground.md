@@ -1,7 +1,7 @@
 ---
 layout: article
 title: EXTRACTION BACKGROUND
-excerpt: TYPE EXCERPT HERE
+excerpt: Learn About eDNA Extraction
 mode: immersive
 header:
   theme: dark

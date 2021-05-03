@@ -1,7 +1,7 @@
 ---
 layout: article
 title: STORING EXTRACTIONS - INCORRECT!
-excerpt: TYPE EXCERPT HERE
+excerpt: Close, but not quite!
 mode: immersive
 header:
   theme: dark
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Samples3.jpg
 ---
 
-**THIS PAGE WILL BE IF YOU ARE NOT QUITE READY TO STORE EXTRACTIONS PROPERLY**
+**Note quite! Review your protocol and try again.**
 
 
 <p align="center">
