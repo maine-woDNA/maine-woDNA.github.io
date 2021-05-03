@@ -49,7 +49,7 @@ article_header:
 
 
 
-***Step 4: Place Sample Well Strips in qPCR Machine***   
+***Step 4: Place Sample Well Strips into qPCR Machine***   
 
 ![qPCR5](/assets/images/BIG-QPCR/qPCR5.jpg)   
 
@@ -70,16 +70,19 @@ article_header:
 
 
 
-
-**qPCR: Results**   
-
-![Results1](/assets/images/BIG-QPCR/Results1.jpg)       
-
-![Results2](/assets/images/BIG-QPCR/Results2.jpg)       
+**Good work! Now that we have run our qPCR, let's check out our results!**
 
 
 
-**Choose the sampling scheme you selected at the beginning of the experiment to continue on to the analysis.**
+***CHECK YOUR KNOWLEDGE***
+
+Time to check your knowledge! ...?
+
+**A.** ...
+
+**B.** ... 
+
+**C.** ...
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalAnalysis1">CORRECT BUTTON 1</a> <a class="button button--outline-primary button--pill" href="HorizontalAnalysis2">INCORRECT BUTTON 2</a> <a class="button button--outline-primary button--pill" href="HorizontalAnalysis2">INCORRECT BUTTON 3</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalAnalysis1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalAnalysis2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalAnalysis2">ANSWER C</a></p>

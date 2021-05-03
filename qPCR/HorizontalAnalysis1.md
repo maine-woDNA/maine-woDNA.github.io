@@ -16,6 +16,14 @@ article_header:
 
 **Analyzing Our qPCR Results**
 
+...
+
+
+**qPCR: Results**   
+
+![Results1](/assets/images/BIG-QPCR/Results1.jpg)       
+
+![Results2](/assets/images/BIG-QPCR/Results2.jpg)       
 
 
 
