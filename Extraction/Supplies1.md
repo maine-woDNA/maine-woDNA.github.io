@@ -16,10 +16,24 @@ article_header:
 
 ***EXTRACTION SUPPLIES***
 
+**Extraction Kit**   
+
 For extraction we used a DNeasy PowerWater Kit (from Qiagen). This kit came with all the necessary supplies to perform the extraction.    
 
 *DNeasy PowerWater Kit*
-![ExtractionKit1](/assets/images/BIG-EXT/ExtractionKit1.jpg)       
+![ExtractionKit1](/assets/images/BIG-EXT/ExtractionKit1.jpg)  
+
+
+
+**Labeling Supplies**  
+
+![Labeling1](/assets/images/BIG-EXT/Labeling1.jpg)  
+
+![Labeling2](/assets/images/BIG-EXT/Labeling2.jpg) 
+
+![Labeling3](/assets/images/BIG-EXT/Labeling3.jpg)    
+
+
 
 
 ***CHECK YOUR KNOWLEDGE***
