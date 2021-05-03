@@ -72,10 +72,10 @@ To do this we followed these steps:
 *Sample reading 'too low':*
 ![Qubit10](/assets/images/BIG-QUBIT/Qubit10.jpg)    
 
-*A high quibit reading:*  
+*A high qubit reading:*  
 ![Qubit11](/assets/images/BIG-QUBIT/Qubit11.jpg) 
 
-*An average quibit reading:*
+*An average qubit reading:*
 ![Qubit12](/assets/images/BIG-QUBIT/Qubit12.jpg)    
 
 
