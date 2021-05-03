@@ -63,7 +63,7 @@ The questions we’re asking are:
 Knowing that adults live on the bottom, we expect that the signal of scallop eDNA will decrease with increasing vertical distance from a wild bed. Knowing lantern nets are suspended in the water column, we expect that the signal of scallop eDNA will also decrease with increasing horizontal distance from a scallop aquaculture site. 
 
 ![AQZones](/assets/images/HI/7 - AQ_Zones map.png)
-*credit: Hurricane Island*
+*credit: Phoebe Jekielek*
 
 **Which experiment would you like to proceed with?**
 
