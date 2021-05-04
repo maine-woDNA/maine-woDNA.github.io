@@ -1,6 +1,6 @@
 ---
 layout: article
-title: STORING - INCORRECT!
+title: FILTER STORING - INCORRECT!
 excerpt: Close, but not quite!
 mode: immersive
 header:
@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Samples1.jpeg
 ---
 
-**Note quite! Review your protocol and try again.**
+**Not quite! Review your protocol and try again.**
 
 
 <p align="center">

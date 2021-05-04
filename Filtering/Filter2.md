@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/FilterRig2.jpeg
 ---
 
-**Note quite! Review your protocol and try again.**
+**Not quite! Review your protocol and try again.**
 
 
 <p align="center">

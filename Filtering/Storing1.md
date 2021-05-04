@@ -1,6 +1,6 @@
 ---
 layout: article
-title: STORING 
+title: FILTER STORING
 excerpt: Safely Storing Our Filters
 mode: immersive
 header:
@@ -55,11 +55,11 @@ We then placed the rolled filters into the tubes and closed the lids. We placed 
 
 Time to check your knowledge! How did we properly store the finished fitlers?
 
-**A.** Folded and in tubes in a -20˚C freezer.
+**A.** Rolled in tubes in a -20˚C freezer.
 
-**B.** Folded and in tubes in a -10˚C freezer.
+**B.** Rolled in tubes in a -10˚C freezer.
 
-**C.** Folded and in tubes at room temperature.
+**C.** Rolled in tubes at room temperature.
 
 
 <p align="center">

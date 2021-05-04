@@ -79,13 +79,14 @@ Finally, we turned the vacuum on and let the filtering begin!
 
 Time to check your knowledge! Why do we need to measure out the sample water before we filter, rather than just pouring directly from the bottles?
 
-**A.** So that we know we are filtering a uniform amount for each sample. 
+**A.** We didn't measure the water--pouring directly from the sample bottles is faster.
 
-**B.** To avoid contamination from the outside of our sample bottles. 
+**B.** So that we know we are filtering a uniform amount for each sample. 
 
-**C.** We didn't measure the water--pouring directly from the sample bottles is faster.
+**C.** To avoid contamination from the outside of our sample bottles. 
 
  
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="Storing1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Storing2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="Storing2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="Storing2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Storing1">ANSWER B</a> <a class="button button--outline-primary button--pill" href="Storing2">ANSWER C</a></p>
+
