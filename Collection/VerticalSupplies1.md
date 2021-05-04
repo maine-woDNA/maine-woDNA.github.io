@@ -80,12 +80,12 @@ Finally, we needed a way to keep our water samples cool and away from light on t
 
 Time to check your knowledge! Before I leave for my sampling I need to make sure I have which things?
 
-**A.** Niskin, line, cleaning supplies, water for controls, pre-labeled sampling bottles, cooler and ice.
+**A.** Niskin, line, cleaning supplies, cooler and ice, lots of snacks.   
 
-**B.** Niskin, line, cleaning supplies, cooler and ice, lots of snacks.   
+**B.** Niskin, line, cleaning supplies, water for controls, a fun hat.     
 
-**C.** Niskin, line, cleaning supplies, water for controls, a fun hat.     
+**C.** Niskin, line, cleaning supplies, water for controls, pre-labeled sampling bottles, cooler and ice.
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="VerticalCollection1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="VerticalCollection2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="VerticalCollection2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="VerticalCollection2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="VerticalCollection2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="VerticalCollection1">ANSWER C</a></p>

@@ -58,11 +58,14 @@ Finally, we placed each sample bottle into the cooler with ice to safely store a
 
 Time to check your knowledge! When we collect eDNA samples in the field how can we store them properly before getting back to the lab?
 
-**A.** On ice in a cooler.
+**A.** Away from light in a plastic tote.    
 
-**B.** Away from light in a plastic tote.    
+**B.** On ice in a cooler.
 
 **C.** Oops I forgot ice!
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="https://maine-wodna.github.io/Filtering/FiltrationBackground">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalFilteringBackground2">ANSWER C</a></p>
+
+
+

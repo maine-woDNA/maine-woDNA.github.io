@@ -53,16 +53,16 @@ With this information, we could carefully design our experiment so that we are s
 
 **Creating Our Sampling Scheme**
 
-Because the scallop racks at Hurricane Island were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved horizontally away from the racks. To do this, we designed a horizontal sampling scheme that you can see in Figure 2 Section B below. 
+Because the scallop racks at Hurricane Island were suspended at a set depth near the surface, we wanted to see how scallop eDNA dispersed in the water as you moved horizontally away from the racks. To do this, we designed a horizontal sampling scheme that you can see in the figure below. 
 
-At the aquaculture site, horizontal water samples would be taken at exponentially greater distances starting at the racks. Our first sample would be collected at 1 m followed by 2 m, 4 m, 16 m, 32 m, 64 m, 128 m, and 256 m from the net (Figure 2). Water samples would be collected in duplicate at each distance. 
+At the aquaculture site, horizontal water samples would be taken at exponentially greater distances starting at the racks. Our first sample would be collected at 1 m followed by 2 m, 4 m, 16 m, 32 m, 64 m, 128 m, and 256 m from the net. Water samples would be collected in duplicate at each distance. 
 
 Two negative controls would be collected at the site after completing sampling to test for contamination.
 
 With this sampling design in hand, we were ready to move onto the next step of our experiment! 
 
 
-![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)   
+![HorizontalSampling](/assets/images/HorizontalSampling.jpg)   
 
 
 
@@ -77,14 +77,14 @@ With this sampling design in hand, we were ready to move onto the next step of o
 
 Time to check your knowledge! Based on our experimental design, how many total horizontal samples will we collect?
 
-**A.** 16 samples and 2 controls.
+**A.** 8 samples and 2 controls. 
 
-**B.** 8 samples and 2 controls. 
+**B.** 8 samples and 8 controls. 
 
-**C.** 8 samples and 8 controls. 
+**C.** 16 samples and 2 controls.
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="HorizontalSupplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="HorizontalSupplies1">ANSWER C</a></p>
 
 

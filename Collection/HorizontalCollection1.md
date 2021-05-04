@@ -70,7 +70,7 @@ We then deployed the Niskin by lowering it into the water. Our line had a heavy 
 
 Finally, we triggered the release mechanism by sending the weight, or messenger, down our line. Once the messenger collided with the Niskin it released the stoppers and sealed our water sample. We then pulled up our line and brought our Niskin onboard!
 
-*Add video of messenger?*
+<!-- *Add video of messenger?* -->
 
 
 

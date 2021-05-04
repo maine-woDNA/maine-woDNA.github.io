@@ -52,16 +52,16 @@ With this information, we could carefully design our experiment so that we are s
 
 **Creating Our Sampling Scheme**
 
-Because the wild scallop bed at Hurricane Island were on the ocean floor, we wanted to see how scallop eDNA dispersed in the water as you moved vertically away from the beds. To do this, we designed a vertical sampling scheme that you can see in Figure 2 Section A below. 
+Because the wild scallop bed at Hurricane Island were on the ocean floor, we wanted to see how scallop eDNA dispersed in the water as you moved vertically away from the beds. To do this, we designed a vertical sampling scheme that you can see in the figure below. 
 
-At the wild scallop bed, vertical water samples would be taken at uniform distances starting above the bed. We chose to sample every 3 meters. Our first sample would be collected at 20 m followed by 17 m, 14 m, 11 m, 8 m, 5 m, 2m, and 0.1 m, essentially at the surface (Figure 2). Water samples would be collected in duplicate for each depth. 
+At the wild scallop bed, vertical water samples would be taken at uniform distances starting above the bed. We chose to sample every 3 meters. Our first sample would be collected at 20 m followed by 17 m, 14 m, 11 m, 8 m, 5 m, 2m, and 0.1 m, essentially at the surface. Water samples would be collected in duplicate for each depth. 
 
 Two negative controls would be collected at the site after completing sampling to test for contamination.
 
 With this sampling design in hand, we were ready to move onto the next step of our experiment! 
 
 
-![Fig2SamplingScheme](/assets/images/Fig2SamplingScheme.jpg)   
+![VerticalSampling](/assets/images/VerticalSampling.jpg)   
 
 
 
@@ -76,13 +76,13 @@ With this sampling design in hand, we were ready to move onto the next step of o
 
 Time to check your knowledge! Based on our experimental design, how many total horizontal samples will we collect?
 
-**A.** 16 samples and 2 controls.
+**A.** 8 samples and 2 controls. 
 
-**B.** 8 samples and 2 controls. 
+**B.** 16 samples and 2 controls.
 
 **C.** 8 samples and 8 controls. 
 
 
 
 <p align="center">
-<a class="button button--outline-primary button--pill" href="VerticalSupplies1">ANSWER A</a> <a class="button button--outline-primary button--pill" href="VerticalSupplies2">ANSWER B</a> <a class="button button--outline-primary button--pill" href="VerticalSupplies2">ANSWER C</a></p>
+<a class="button button--outline-primary button--pill" href="VerticalSupplies2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="VerticalSupplies1">ANSWER B</a> <a class="button button--outline-primary button--pill" href="VerticalSupplies2">ANSWER C</a></p>

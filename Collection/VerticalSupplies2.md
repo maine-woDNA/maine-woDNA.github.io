@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/HI-BoatSupplies1.jpeg
 ---
 
-**Note quite! Review your supplies list and try again.**
+**Not quite! Review your supplies list and try again.**
 
 
 <p align="center">
