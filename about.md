@@ -9,12 +9,9 @@ key: page-about
 
 ![Ferry Group Photo](/assets/images/HI/HI-FerryGroup2.jpeg)
 
-Edit this page by going to about.md. Im thinking we can give background on this project right here and who we are? We can also turn those topics onto different pages if we wanted to!
-
-
 ## Who (or what) is woDNA?
 
-woDNA is composed of 4 AWESOME ladies. we can have photos of us and a little blurb about us if we wanted to. I am leaving some theme example photos below since we can do something similar with images of us, but we can also do it formatted differently.
+woDNA is composed of 4 AWESOME ladies who are interested in exploring eDNA science. Our diverse backgrounds (marine science, molecular biology, ecology and environmental science, and communication and journalism) gave us flexibilility in that we didn’t need to be an expert in all things. As team, we rely on each other to lead with personal knowledge and expertise. We have robust conversations, laugh a lot, ask questions, and seek advice outside of our team. We create visual diagrams to explain our ideas, and share our reflections and frustrations. We continue to learn from each other and keen an open mind to change. By sharing our research process it is our hope that we can train, educate, and inspire students and the community at large to be curious about our world, how it is changing, and why it matters.
 
 | **JEN SMITH-MAYO** | **RENE FRANCOLINI** |
 | --- |  --- |
