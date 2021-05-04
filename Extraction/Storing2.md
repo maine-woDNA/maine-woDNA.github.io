@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Samples3.jpg
 ---
 
-**Note quite! Review your protocol and try again.**
+**Not quite! Review your protocol and try again.**
 
 
 <p align="center">

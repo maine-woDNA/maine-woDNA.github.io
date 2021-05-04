@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/ExtractionKit1.jpg
 ---
 
-**Note quite! Review your supplies list and try again.**
+**Not quite! Review your laboratory instruments and try again.**
 
 
 <p align="center">
