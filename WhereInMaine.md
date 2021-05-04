@@ -19,6 +19,6 @@ The 125-acre island is approximately 10 miles offshore from Rockland and is situ
 
 This project also partners with the Hurricane Island Center for Science and Leadership (Hurricane). Hurricane is a 501c3 non-profit with a mission to integrate science education, applied research, and leadership development through year-round educational programs and a seasonal sustainable Island community. 
 
-|![GraniteWalk](/assets/images/HI/granite walk.jpg)|![HIGroup](/assets/images/HI/ZQ8A4850_LARGE.jpg)|
+![WalkAndGroup](/assets/images/HI/WalkGroupCombo.jpg)
 
 Hurricane manages a 3.2-acre research aquaculture farm to the north of the island where they grow scallops for research purposes. Partnering with other Penobscot Bay aquaculture farms on North Haven and Stonington, they have been monitoring gonado-somatic indices (GSI) and growth rates of aquaculture scallops across Penobscot Bay. Concurrently, they are monitoring GSI’s and population structure in wild scallop populations around Hurricane and the Lower Penobscot Bay rotational management area, which supports a healthy commercial scallop fishery. 
