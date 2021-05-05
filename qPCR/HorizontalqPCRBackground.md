@@ -14,23 +14,7 @@ article_header:
     src: /assets/images/Headers/qPCR5.jpg
 ---
 
-**What is qPCR?**
-
-
-
-
-
-***CHECK YOUR KNOWLEDGE***
-
-Time to check your knowledge! ...?
-
-**A.** ...
-
-**B.** ... 
-
-**C.** ...
-
-
+**THIS PAGE WILL HAVE BACKGROUND INFORMATION ON qPCR**
 
 
 <p align="center">
