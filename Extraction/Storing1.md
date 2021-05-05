@@ -16,14 +16,13 @@ article_header:
 
 **Storing the eDNA Extractions**    
 
-We then stored our eDNA extractions in a -20˚C freezer until qPCR. 
-
-
+Once our samples were extracted and measured via the qubit, we placed them in the -20 degree freezer for proper storage. The cold temperature prevents our samples from degrading over a long period of time. 
 
 *Samples safely stored:*
 ![Samples3](/assets/images/BIG-EXT/Samples3.jpg)  
 
 
+Phew!! That was a lot! Let's remind ourselves what experiment we are doing!
 
 **Choose the sampling scheme you selected at the start of the experiment to continue on to qPCR!**    
 

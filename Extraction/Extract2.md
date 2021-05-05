@@ -14,7 +14,7 @@ article_header:
     src: /assets/images/Headers/Extraction12.jpg
 ---
 
-**Not quite! Review your protocol and try again.**
+**Not quite! Review what is needed to extract DNA and try again.**
 
 
 <p align="center">

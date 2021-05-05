@@ -16,80 +16,54 @@ article_header:
 
 **Qubitting Our eDNA Samples**
 
-Once we had extracted our eDNA, we then had to qubit our samples to quantify our DNA concentrations. 
+The qubit is an instrument that quantifies the concentration of DNA in the sample. 2 microliters of the sample are added to a buffer that has a fluorescent dye in it. This dye binds to all DNA present in the sample. Therefore, by measuring the amount of fluorescence in the sample, the concentration of DNA can be determined. 
 
 To do this we followed these steps:
 
-
 ***Step 1: Plan Concentrations***  
 
-![Computer1](/assets/images/BIG-QUBIT/Computer1.jpg) 
+The first step is to calculate how much buffer and fluorescent dye is needed to properly measure the concentration of DNA
 
+*Calculating the proper concentrations:*
 ![Computer2](/assets/images/BIG-QUBIT/Computer2.jpg) 
 
+***Step 2: Allocating out Buffer & DNA***
+
+Next, we added fluorescent dye to the buffer, allocated the mixed buffer to each qubit tube, and added DNA from each sample to it's corresponding tube.
+
+*Allocating out the buffer:*
+![Qubit1](/assets/images/BIG-QUBIT/Qubit1.jpg)  
+
+*Fluorescent dye:*
+![Qubit3](/assets/images/BIG-QUBIT/Qubit3.jpg)  
+
+*Qubit tubes ready to be measured:*
+![Samples1](/assets/images/BIG-QUBIT/Samples1.jpg)     
 
 
+***Step 3:Reading Qubit Results***
 
-***Step 2:***
-
-![Samples1](/assets/images/BIG-QUBIT/Samples1.jpg)    
-
-
-![Qubit1](/assets/images/BIG-QUBIT/Qubit1.jpg)      
-
-
-![Qubit2](/assets/images/BIG-QUBIT/Qubit2.jpg)    
-
-
-
-***Step 3: Make Qubit Standard***
-
-![Qubit3](/assets/images/BIG-QUBIT/Qubit3.jpg)    
-
-
-
-***Step 4:***
-
-![Qubit5](/assets/images/BIG-QUBIT/Qubit5.jpg) 
-
-
-![Qubit7](/assets/images/BIG-QUBIT/Qubit7.jpg)    
-
-
-
-***Step 5: Qubit the Samples***
-
-*Samples ready to go:*
-![Qubit8](/assets/images/BIG-QUBIT/Qubit8.jpg)    
-
-*Quibiting sample:*
-![Qubit9](/assets/images/BIG-QUBIT/Qubit9.jpg)    
-
-
-
-***Step 6:Reading Qubit Results***
+Each tube is vortexed before being placed in the qubit instrument. Prior to measuring the samples, standards are run to create a standard curve. Once the curve has been determined, each sample is placed in the qubit instrument one at a time, and the concentrations are calculated. 
 
 *Sample reading 'too low':*
 ![Qubit10](/assets/images/BIG-QUBIT/Qubit10.jpg)    
 
-*A high qubit reading:*  
+*A higher qubit reading:*  
 ![Qubit11](/assets/images/BIG-QUBIT/Qubit11.jpg) 
 
-*An average qubit reading:*
+*A lower qubit reading:*
 ![Qubit12](/assets/images/BIG-QUBIT/Qubit12.jpg)    
-
-
 
 
 ***CHECK YOUR KNOWLEDGE***
 
-Time to check your knowledge! What is the standard (is this what it's called Rene?) used for in qubiting?
+Time to check your knowledge! How does the qubit calculate the concentration of DNA?
 
-**A.** To calibrate the qubit machine.
+**A.** By measuring the amount of fluorescence in the sample.
 
-**B.** To act as a negative control.
+**B.** Little science fairies count each strand of DNA in the sample.
 
-**C.** To clean the qubit machine before use. 
+**C.** It uses it's fine scale and measures the weight of the sample.
 
 
 <p align="center">
