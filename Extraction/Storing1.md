@@ -22,7 +22,7 @@ Once our samples were extracted and measured via the qubit, we placed them in th
 ![Samples3](/assets/images/BIG-EXT/Samples3.jpg)  
 
 
-Phew!! That was a lot! Let's remind ourselves what experiment we are doing!
+Phew!! That was a lot! Before we proceed to qPCR, let's remind ourselves what experiment we are doing!
 
 **Choose the sampling scheme you selected at the start of the experiment to continue on to qPCR!**    
 
