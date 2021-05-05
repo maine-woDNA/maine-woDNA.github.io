@@ -51,10 +51,10 @@ Scallops are unique among their bivalve counterparts in Maine in that they have 
 <video controls>
   <source src="/assets/videos/SpatBagsSmall.mp4" type="video/mp4">
 </video> </p>
-*credit: National Geographic*
+*credit: Hurricane Island*
 
 ![LanternNets](/assets/images/HI/HI_LanternNet.jpeg)
-*credit: Hurricane Island*
+*credit: National Geographic*
 
 So, now we have aquaculture farms and wild scallop populations co-located along the coast of Maine! This is a unique opportunity to explore potential interactions between wild and aquaculture scallop populations, specifically impacts on larval supply. This experiment evaluates the distribution of scallop eDNA vertically from wild scallop beds and horizontally from aquaculture lantern nets on Hurricane Island. The vertical and horizontal distribution study expands our understanding of scallop eDNA by relating gene copy number to presumed shed DNA in the water column over wild beds and next to lantern nets. With this data, we will be able to identify the best sampling depth and distance range to relate gene copy number to scallop density in the future. Accurately identifying distribution of scallop eDNA in the water column and further developing these eDNA techniques as they relate to scallop concentration will improve the efficiency of field studies and allow proper integration of eDNA as a tool for fisheries management.
 
