@@ -26,15 +26,20 @@ Before we filled our samples, we rinsed the bottle and its lid three times with 
 We then dispensed 1 liter of water from the 5 liter Niskin into our sample bottle. Once filled, we then sealed the bottle tightly with the cap.
 
 
-*Dispensing the sample water:*
-![HI-BottleFilling2](/assets/images/HI/HI-BottleFilling2.jpeg)  
+
+<!-- *Dispensing the sample water:*
+![HI-BottleFilling2](/assets/images/HI/HI-BottleFilling2.jpeg) --> 
+
+<!--*Filling our bottles:*
+![HI-BottleFilling3](/assets/images/HI/HI-BottleFilling3.jpeg) -->
 
 *Filling our bottles:*
-![HI-BottleFilling3](/assets/images/HI/HI-BottleFilling3.jpeg) 
+![HI-BottleFilling3B](/assets/images/HI/HI-BottleFilling3B.jpeg)
 
+<!--*A 1L sample all ready to go:*
+![HI-CollectedWater1](/assets/images/HI/HI-CollectedWater1.jpeg)-->  
 *A 1L sample all ready to go:*
-![HI-CollectedWater1](/assets/images/HI/HI-CollectedWater1.jpeg)  
-
+![HI-CollectedWater1B](/assets/images/HI/HI-CollectedWater1B.jpeg)
 
 
 ***Safely Storing the Samples***

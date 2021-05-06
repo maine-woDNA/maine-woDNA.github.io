@@ -23,13 +23,13 @@ For this portion of the study we started with the question: How does eDNA disper
 
 Unlike wild scallop populations that live on the ocean floor, sea farmers grow scallops in suspended cages or nets. As a result, how we sample for aquaculture scallops will be different than how we sample for wild scallops.
 
-These nets and cages come in many shapes and sizes, for example lantern nets (Image A) or racks, like the ones they use at Hurricane Island (Image B)!
+These nets and cages come in many shapes and sizes, for example lantern nets (Image A) or racks, like the ones they use at Hurricane Island<!--(Image B)-->!
 
 *Image A*    
 ![HI_LanternNet](/assets/images/HI/HI_LanternNet.jpeg)
 
-*Image B*    
-![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)         
+<!-- *Image B*    
+![HI-Scallops1](/assets/images/HI/HI-Scallops1.jpeg)  -->     
 
 
 

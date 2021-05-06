@@ -25,8 +25,8 @@ We then got on Captain Jason's boat and cruised on over to Hurricane Island. We 
 
 
 *Navigating to our site*
-![HI-BoatPlanning2](/assets/images/HI/HI-BoatPlanning2.jpeg)   
-
+<!--![HI-BoatPlanning2](/assets/images/HI/HI-BoatPlanning2.jpeg)-->   
+![HI-BoatGPS](/assets/images/HI/HI-BoatGPS.jpeg)
 
 
 
@@ -38,16 +38,16 @@ We used Niskins to collect our horizontal water samples at the scallop aquacultu
 
 Before we used the Niskin to collect eDNA water samples it had to be cleaned. Cleaning allowed us to be sure that there was no foreign DNA that would contaminate our sample and would ensure that we did not cause cross-contamination between sites. To clean the Niskin we sprayed it with a solution of 10% bleach followed by three rinses of tap water. We cleaned inside the Niskin and both stopper ends thoroughly after collecting our 2 replicates at each site.
 
-![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg)  
-
+<!-- ![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning2.jpeg) -->  
+![HI-Niskin1](/assets/images/HI/HI-NiskinCleaning3.jpeg)
 
 
 ***Step 2: Preparing the Niskin***   
 
 Next we had to prepare the Niskin for deployment. To do this, we first attached the Niskin to our line. We then opened both stoppers by attaching the elastics to the release mechanism. Lastly we made sure the Niskin valve, the small white valve that helps water flow freely out of the Niskin, was closed.
 
-*Attaching the Niskin to our line:*    
-![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  
+<!-- *Attaching the Niskin to our line:*    
+![HI-Niskin1](/assets/images/HI/HI-NiskinPrep2.jpeg)  -->
 
 *Opening the stoppers and attaching the elastic to the release mechanism. The white valve is closed:*     
 ![HI-NiskinsPrep4](/assets/images/HI/HI-NiskinsPrep4.jpeg)  
@@ -58,13 +58,16 @@ Next we had to prepare the Niskin for deployment. To do this, we first attached 
 
 We then deployed the Niskin by lowering it into the water. Our line had a heavy weight at the bottom that helped the Niskin sink. Once tossed overboard, we slowly lowered the Niskin into the water.
 
-*Tossing it overboard:*   
+<!--*Tossing it overboard:*   
 ![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment3.jpeg)   
 
 *And down it goes:*    
-![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment2.jpeg)  
+![HI-Niskin1](/assets/images/HI/HI-NiskinDeployment2.jpeg)-->
 
+*And down they go!:*    
+![HI-NiskinDeploy6](/assets/images/HI/HI-NiskinDeployment6.jpeg)
 
+![HI-NiskinDeploy5B](/assets/images/HI/HI-NiskinDeployment5B.jpeg)
 
 ***Step 4: Capturing the Sample***    
 
@@ -81,7 +84,7 @@ Finally, we triggered the release mechanism by sending the weight, or messenger,
 Each step of the way we kept track of our progress and made sure to take notes on anything that might be important for our later analysis. 
 
 *Marking things down in the field log:*    
-![HI-Niskin1](/assets/images/HI/HI-DataLogging1.jpeg)
+![HI-Data3](/assets/images/HI/HI-DataLogging3.jpeg)
 
 
 
