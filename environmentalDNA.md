@@ -8,7 +8,7 @@ key: page-eDNA
 ---
 
 
-Environmental DNA (eDNA) is DNA collected from the environment, such as water or soil, to determine which organisms have recently been in the sampling location. All organisms (both plants and animals) shed DNA naturally in the form of cells and DNA fragments, and by collecting the water or soil that contains the shed DNA, the presence of organisms can be determined without collecting the organisms themselves. 
+Environmental DNA (eDNA) is DNA collected from the environment, such as water, snow, or soil, to determine which organisms have recently been in the sampling location. All organisms (both plants and animals) shed DNA naturally in the form of cells and DNA fragments, and by collecting the water or soil that contains the shed DNA, the presence of organisms can be determined without collecting the organisms themselves. 
 
 ![eDNAVisual](/assets/images/OceaneDNA.png)
 

@@ -59,7 +59,7 @@ Time to check your knowledge! Which instrument has which function?
 
 **A.** The vortex spins things and the centrifuge shakes things. 
 
-**B.** The centrifuge pins things and the vortex shakes things. 
+**B.** The centrifuge spins things and the vortex shakes things. 
 
 <p align="center">
 <a class="button button--outline-primary button--pill" href="Supplies2">ANSWER A</a> <a class="button button--outline-primary button--pill" href="Supplies1">ANSWER B</a>
